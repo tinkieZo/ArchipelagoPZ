@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Research Centre",
+        "ap_classification": "Progression",
+        "version": "Base"
+    },
+    {
+        "name": "Workshop",
+        "ap_classification": "Progression",
+        "version": "Base"
+    },
+    {
+        "name": "Water Habitat Tools",
+        "ap_classification": "Progression",
+        "version": "Base"
+    },
+    {
+        "name": "Conservation Program",
+        "ap_classification": "Progression",
+        "version": "Base"
+    },
+    {
+        "name": "Permit: Saltwater Crocodile",
+        "ap_classification": "Progression",
+        "version": "Base"
+    },
+    {
+        "name": "Permit: Western Lowland Gorilla",
+        "ap_classification": "Progression",
+        "version": "Base"
+    },
+    {
+        "name": "Permit: Bengal Tiger",
+        "ap_classification": "Progression",
+        "version": "Base"
+    },
+    {
+        "name": "Permit: Snow Leopard",
+        "ap_classification": "Progression",
+        "version": "Base"
+    },
+    {
+        "name": "Permit: Giant Panda",
+        "ap_classification": "Progression",
+        "version": "Base"
+    },
+    {
+        "name": "Cash Injection (Medium)",
+        "ap_classification": "Useful",
+        "version": "Base"
+    },
+    {
+        "name": "Cash Injection (Large)",
+        "ap_classification": "Useful",
+        "version": "Base"
+    },
+    {
+        "name": "Conservation Credits (Large)",
+        "ap_classification": "Useful",
+        "version": "Base"
+    },
+    {
+        "name": "Cash Injection (Small)",
+        "ap_classification": "Filler",
+        "version": "Base"
+    },
+    {
+        "name": "Conservation Credits (Small)",
+        "ap_classification": "Filler",
+        "version": "Base"
+    },
+    {
+        "name": "Conservation Credits (Medium)",
+        "ap_classification": "Filler",
+        "version": "Base"
+    }
+]
