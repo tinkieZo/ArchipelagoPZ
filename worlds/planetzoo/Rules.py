@@ -72,8 +72,9 @@ def set_all_location_rules(world: PlanetZooWorld) -> None:
 
 
 
-HAS_FLAGSHIP = HasAll(ItemNames.conserve_program, ItemNames.permit_giant_panda)
 
+#Goal currently is, breed Giant Pandas
 def set_completion_condition(world: PlanetZooWorld) -> None:
-     world.set_completion_rule(HAS_FLAGSHIP)
-    #  world.set_completion_rule(Has("Goal"))
+    world.multiworld.get_location(LocationNames.fb_giant_panda, world.player).place_locked_item(world.create_event("Victory"))
+    
+    world.multiworld.completion_condition[world.player] = lambda state: state.has("Victory", world.player)

@@ -67,6 +67,7 @@ class ItemNames:
     conserv_cred_s = "Conservation Credits (Small)"
     conserv_cred_m = "Conservation Credits (Medium)"
 
+
 class EntranceNames:
     menu_to_research = "Menu to Research"
     menu_to_mechanic = "Menu to Mechanic"

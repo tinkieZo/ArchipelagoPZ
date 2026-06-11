@@ -3,15 +3,15 @@ import json
 import pkgutil
 from typing import TYPE_CHECKING, List
 import typing
-from BaseClasses import Location
-from .Names import LocationNames, RegionNames
+from BaseClasses import ItemClassification, Location
+from .Names import ItemNames, LocationNames, RegionNames
 from collections import namedtuple
-
+from .Items import PlanetZooItem
 
 if TYPE_CHECKING:
     from .World import PlanetZooWorld
 
-from . import Items
+
 
 def location_decoder(objdict):
     return namedtuple('DefaultLocation', objdict.keys())(*objdict.values())
@@ -84,7 +84,8 @@ def get_location_names_with_ids(location_names: list[str]) -> dict[str, int | No
 
 def create_all_locations(world: PlanetZooWorld) -> None:
     create_regular_locations(world)
-    #create_events(world)
+    create_goal_location(world)
+
 
 def create_regular_locations(world: PlanetZooWorld) -> None:
     research_locations = world.multiworld.get_region(RegionNames.research_tree, world.player)
@@ -109,12 +110,16 @@ def create_regular_locations(world: PlanetZooWorld) -> None:
         milestones_locations_names)
     milestones_locations.add_locations(set_milestones_locations, PlanetZooLocation)
 
+    #Remove fb_giant_panda out of the normal location pool
+
+    filtered_breeding_locations = [loc for loc in breeding_locations_names if loc != LocationNames.fb_giant_panda]
     set_breeding_locations = get_location_names_with_ids(
-        breeding_locations_names)
+        filtered_breeding_locations)
     breeding_locations.add_locations(set_breeding_locations, PlanetZooLocation)
 
-# def create_events(world: PlanetZooWorld) -> None:
-#     flagship_reached = world.get_region(RegionNames.milestones)
-#     flagship_reached.add_event(
-#         LocationNames.ms_flagship_reached, "Goal", location_type=PlanetZooLocation, item_type=Items.PlanetZooItem
-#     )
+
+#Current goal option : Breed Pandas
+def create_goal_location(world: PlanetZooWorld) -> None:
+    region = world.multiworld.get_region(RegionNames.menu, world.player)
+    goal_location = PlanetZooLocation(world.player, LocationNames.fb_giant_panda, None, region)
+    region.locations.append(goal_location)

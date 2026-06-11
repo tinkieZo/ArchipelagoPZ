@@ -1,9 +1,13 @@
 from collections.abc import Mapping
 from typing import Any
 
+from .Names import LocationNames
+from BaseClasses import ItemClassification
 from worlds.AutoWorld import World
 from . import Options as planetzoo_options
 from . import Items, Locations, Regions, Rules
+
+
 class PlanetZooWorld(World):
     """Planet Zoo Randomizer with Archipelago addition"""
     game = "Planet Zoo"  # name of the game/world
@@ -22,9 +26,8 @@ class PlanetZooWorld(World):
     ]
     
     startingmoney = []
-
     
-
+    
     def create_regions(self) -> None:
         Regions.create_and_connect_regions(self)
         Locations.create_all_locations(self)
@@ -45,3 +48,7 @@ class PlanetZooWorld(World):
     
     def get_filler_item_name(self):
         return Items.get_random_filler_item_name(self)
+    
+    def create_event(self, event: str) -> Items.PlanetZooItem:
+    # while we are at it, we can also add a helper to create events
+        return Items.PlanetZooItem(event, ItemClassification.progression, None, self.player)
