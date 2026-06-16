@@ -1,0 +1,478 @@
+[
+    {
+        "label": "Africa Theme Sets Scenery",
+        "stringid": "africa1",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "Africa Theme Sets BlueprintsL1",
+        "stringid": "africa2",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "AfricaThemeSetsBlueprintsL2",
+        "stringid": "africa3",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "AfricaThemeSetsBlueprintsL3",
+        "stringid": "africa4",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "BarriersRebarStoneCages",
+        "stringid": "barrier1",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "BarriersChainSteelPosts",
+        "stringid": "barrier2",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "BarriersConcrete",
+        "stringid": "barrier3",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "BarriersElectric",
+        "stringid": "barrier4",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "BarriersOneWayGlass",
+        "stringid": "barrier5",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "BarriersThickGlass",
+        "stringid": "barrier6",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "ClassicThemeSetsScenery",
+        "stringid": "classic1",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "ClassicThemeSetsBlueprintsL1",
+        "stringid": "classic2",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "ClassicThemeSetsBlueprintsL2",
+        "stringid": "classic3",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "ClassicThemeSetsBlueprintsL3",
+        "stringid": "classic4",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "DrinkShopsGulpeeSlush",
+        "stringid": "drink_shop1",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "DrinkShopsPipshotWater",
+        "stringid": "drink_shop2",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "DrinkShopsFoxyCoffee",
+        "stringid": "drink_shop3",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "DrinkShopsCosmicCowMilkshakes",
+        "stringid": "drink_shop4",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "DrinkShopsPipshotJuice",
+        "stringid": "drink_shop5",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "DrinkShopsGulpeeEnergy",
+        "stringid": "drink_shop6",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "DrinkShopsPipshotSmoothies",
+        "stringid": "drink_shop7",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "FoodShopsHotdogSquad",
+        "stringid": "food_shop1",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "FoodShopsPizzaPen",
+        "stringid": "food_shop2",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "FoodShopsCosmicCowIceCream",
+        "stringid": "food_shop3",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "FoodShopsMissyGood",
+        "stringid": "food_shop4",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "FoodShopsMexelente",
+        "stringid": "food_shop5",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "FoodShopsMonsieurFrites",
+        "stringid": "food_shop6",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "HabitatsHabitatBlueprintsL1",
+        "stringid": "habitat1",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "HabitatsHabitatBlueprintsL2",
+        "stringid": "habitat2",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "HabitatsHabitatBlueprintsL3",
+        "stringid": "habitat3",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "IndiaThemeSetsScenery",
+        "stringid": "indian1",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "IndiaThemeSetsBlueprintsL1",
+        "stringid": "indian2",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "IndiaThemeSetsBlueprintsL2",
+        "stringid": "indian3",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "IndiaThemeSetsBlueprintsL3",
+        "stringid": "indian4",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "ModernThemeSetsScenery",
+        "stringid": "modern1",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "ModernThemeSetsBlueprintsL1",
+        "stringid": "modern2",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "ModernThemeSetsBlueprintsL2",
+        "stringid": "modern3",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "ModernThemeSetsBlueprintsL3",
+        "stringid": "modern4",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "OrientThemeSetsScenery",
+        "stringid": "orient1",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "OrientThemeSetsBlueprintsL1",
+        "stringid": "orient2",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "OrientThemeSetsBlueprintsL2",
+        "stringid": "orient3",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "OrientThemeSetsBlueprintsL3",
+        "stringid": "orient4",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "PowerWindTurbine",
+        "stringid": "power1",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "PowerSolarPanel",
+        "stringid": "power2",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "SheltersShelterBlueprintsL1",
+        "stringid": "shelter1",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "SheltersShelterBlueprintsL2",
+        "stringid": "shelter2",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "SheltersShelterBlueprintsL3",
+        "stringid": "shelter3",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "SouvenirShopsJustAMomento",
+        "stringid": "souvenir_shop1",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "SouvenirShopsHatsFantastic",
+        "stringid": "souvenir_shop2",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "StaffFacilitiesKeeperHutLarge",
+        "stringid": "sf_keeperhut_l",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "StaffFacilitiesStaffCentreLarge",
+        "stringid": "sf_staff_room_l",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "StaffFacilitiesQuarantineLarge",
+        "stringid": "sf_quarantine_l",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "StaffFacilitiesResearchCentreLarge",
+        "stringid": "sf_research_centre_l",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "TransportBoatRideStation",
+        "stringid": "transport1",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "TransportSuspendedGondola",
+        "stringid": "transport2",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "TransportSteamTrainStation",
+        "stringid": "transport3",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "TransportSafariJeepStation",
+        "stringid": "transport4",
+        "type": "mechanic",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "Zoo Rating - 1",
+        "stringid": "zoo_rating1",
+        "type": "milestones",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "Zoo Rating - 2",
+        "stringid": "zoo_rating2",
+        "type": "milestones",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "Zoo Rating - 3",
+        "stringid": "zoo_rating3",
+        "type": "milestones",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "Zoo Rating - 4",
+        "stringid": "zoo_rating4",
+        "type": "milestones",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "Zoo Rating - 5",
+        "stringid": "zoo_rating5",
+        "type": "milestones",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "Guests - 250",
+        "stringid": "guests_250",
+        "type": "milestones",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "Guests - 500",
+        "stringid": "guests_500",
+        "type": "milestones",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "Guests - 750",
+        "stringid": "guests_750",
+        "type": "milestones",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "Guests - 1000",
+        "stringid": "guests_1000",
+        "type": "milestones",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "Guests - 1250",
+        "stringid": "guests_1250",
+        "type": "milestones",
+        "species_type": "none",
+        "water_needed": false
+    },
+    {
+        "label": "Guests - 2500",
+        "stringid": "guests_2500",
+        "type": "milestones",
+        "species_type": "none",
+        "water_needed": false
+    }
+]

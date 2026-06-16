@@ -2,6 +2,7 @@ from __future__ import annotations
 from collections import namedtuple
 import json
 import pkgutil
+from random import sample
 from typing import TYPE_CHECKING, List
 import typing
 
@@ -12,15 +13,19 @@ from .Names import ItemNames
 if TYPE_CHECKING:
     from .World import PlanetZooWorld
 
-#Creater list of Items
+# Creater list of Items
+
+
 class ItemData(typing.NamedTuple):
     itemName: str
     progression: ItemClassification
+    quantity: int
+
 
 def convert_ap_class(ap_string):
     # Create list of Items
     ap_class = ItemClassification.useful
-    #print(item)
+    # print(item)
     match ap_string:
         case "Filler":
             ap_class = ItemClassification.filler
@@ -36,8 +41,10 @@ def convert_ap_class(ap_string):
             ap_class = ItemClassification.progression_skip_balancing
     return ap_class
 
+
 def item_decoder(objdict):
     return namedtuple('DefaultItem', objdict.keys())(*objdict.values())
+
 
 def get_item_by_name(name: str) -> ItemData | None:
     return next(
@@ -45,50 +52,83 @@ def get_item_by_name(name: str) -> ItemData | None:
         None
     )
 
-complete_item_list:List[ItemData] = []
+
+# Special items added with olditems.json
+complete_item_list: List[ItemData] = []
 default_item_list = {}
-default_item_list = json.loads(pkgutil.get_data(__name__, "data/items.json"), object_hook=item_decoder)
+old_item_list = {}
+basic_items_list = json.loads(pkgutil.get_data(
+    __name__, "data/items.json"), object_hook=item_decoder)
+special_items_list = json.loads(pkgutil.get_data(
+    __name__, "data/old_items.json"), object_hook=item_decoder)
+
+default_item_list = basic_items_list + special_items_list
+
 for item in default_item_list:
-    complete_item_list.append(ItemData(item.name, convert_ap_class(item.ap_classification)))
-item_name_to_id = {data.itemName: 1000 + index for index, data in enumerate(complete_item_list)}
+    complete_item_list.append(
+        ItemData(item.name, convert_ap_class(item.ap_classification), item.quantity))
+item_name_to_id = {data.itemName: 1000 + index for index,
+                   data in enumerate(complete_item_list)}
+# Don't reload old files :D
+# Fix later: Can't run old world if ID's are redone
+# Pech
 
 
 class PlanetZooItem(Item):
     game = "Planet Zoo"
 
+
 def create_item_with_correct_classification(world: PlanetZooWorld, name: str) -> PlanetZooItem:
-    item=get_item_by_name(name)
-    if(item):
+    item = get_item_by_name(name)
+    if (item):
         classification = item.progression
     else:
-        classification = ItemClassification.filler #avoid unassigned variable crashes
+        classification = ItemClassification.filler  # avoid unassigned variable crashes
     return PlanetZooItem(name, classification, item_name_to_id[name], world.player)
 
+
 def get_random_filler_item_name(world: PlanetZooWorld) -> str:
-    roll = world.random.randint(0,99)
-    if roll<16:
+    roll = world.random.randint(0, 99)
+    if roll < 5:
         return ItemNames.cash_inject_l
-    if roll<33:
+    if roll < 25:
         return ItemNames.cash_inject_m
-    if roll<50:
+    if roll < 50:
         return ItemNames.cash_inject_s
-    if roll<66:
+    if roll < 55:
         return ItemNames.conserv_cred_l
-    if roll<84:
+    if roll < 75:
         return ItemNames.conserv_cred_m
     return ItemNames.conserv_cred_s
 
-def create_all_items(world: PlanetZooWorld) -> None:
 
-    for item in complete_item_list:
-        #start if loop, leaving out Ghost Goal Item (top of list in items.json)
-        if(item):
-            world.multiworld.itempool.append(create_item_with_correct_classification(world,item.itemName))
-        
+def create_all_items(world: PlanetZooWorld) -> None:
+    list_of_permits = [
+        item for item in complete_item_list if
+        "Permit" in item.itemName and "Giant Panda" not in item.itemName
+    ]
+    starting_animals = sample(
+        list_of_permits, world.options.num_starting_species)
+    starting_animals_names = {item.itemName for item in starting_animals}
+    reduced_item_list = [
+        item for item in complete_item_list if item.itemName not in starting_animals_names]
+    for item in starting_animals:
+        world.multiworld.push_precollected(
+            create_item_with_correct_classification(world, item.itemName))
+    for item in reduced_item_list:
+        world.multiworld.itempool.append(
+            create_item_with_correct_classification(world, item.itemName))
+        if item.quantity > 1:
+            for _ in range(item.quantity-1):
+                world.multiworld.itempool.append(
+                    create_item_with_correct_classification(world, item.itemName))
 
     number_of_items = len(world.multiworld.itempool)
-    number_of_unfilled_locations = len(world.multiworld.get_unfilled_locations(world.player))
-    needed_number_of_filler_items = number_of_unfilled_locations - number_of_items
-    world.multiworld.itempool += [world.create_filler() for _ in range(needed_number_of_filler_items)]
-
-#items_by_name: typing.Dict[str, ItemData] = {item.itemName: item for item in all_items}
+    number_of_unfilled_locations = len(
+        world.multiworld.get_unfilled_locations(world.player))
+    # print(world.multiworld.get_unfilled_locations(world.player))  # Test
+    needed_number_of_filler_items = number_of_unfilled_locations - \
+        number_of_items-1  # Takes the goal location out of the location choices
+    # Can filter out the goal location, instead of doing -1 (fix for later)
+    world.multiworld.itempool += [world.create_filler()
+                                  for _ in range(needed_number_of_filler_items)]

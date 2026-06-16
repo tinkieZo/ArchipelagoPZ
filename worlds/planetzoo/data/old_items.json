@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Research Centre",
+        "ap_classification": "Progression",
+        "version": "Base",
+        "quantity": 1
+    },
+    {
+        "name": "Workshop",
+        "ap_classification": "Progression",
+        "version": "Base",
+        "quantity": 1
+    },
+    {
+        "name": "Water Habitat Tools",
+        "ap_classification": "Progression",
+        "version": "Base",
+        "quantity": 1
+    },
+    {
+        "name": "Conservation Program",
+        "ap_classification": "Progression",
+        "version": "Base",
+        "quantity": 1
+    },
+    {
+        "name": "Cash Injection (Medium)",
+        "ap_classification": "Useful",
+        "version": "Base",
+        "quantity": 1
+    },
+    {
+        "name": "Cash Injection (Large)",
+        "ap_classification": "Useful",
+        "version": "Base",
+        "quantity": 1
+    },
+    {
+        "name": "Conservation Credits (Large)",
+        "ap_classification": "Useful",
+        "version": "Base",
+        "quantity": 1
+    },
+    {
+        "name": "Cash Injection (Small)",
+        "ap_classification": "Filler",
+        "version": "Base",
+        "quantity": 1
+    },
+    {
+        "name": "Conservation Credits (Small)",
+        "ap_classification": "Filler",
+        "version": "Base",
+        "quantity": 1
+    },
+    {
+        "name": "Conservation Credits (Medium)",
+        "ap_classification": "Filler",
+        "version": "Base",
+        "quantity": 1
+    },
+    {
+        "name": "Progressive Supplement Level",
+        "ap_classification": "Useful",
+        "version": "Base",
+        "quantity": 2
+    },
+    {
+        "name": "Progressive Education Level ",
+        "ap_classification": "Useful",
+        "version": "Base",
+        "quantity": 3
+    },
+    {
+        "name": "Progressive Breeding Level",
+        "ap_classification": "Useful",
+        "version": "Base",
+        "quantity": 2
+    },
+    {
+        "name": "Progressive Exhibit Enrichment Level",
+        "ap_classification": "Useful",
+        "version": "Base",
+        "quantity": 3
+    }
+]

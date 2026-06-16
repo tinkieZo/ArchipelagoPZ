@@ -10,19 +10,15 @@ class StartingMoney(Range):
     default = 50000
 
 
-# class starting_species(Range):
-#     """Number of species unlocked at start"""
-#     display_name = "Species Unlocked"
-#     range_start = 1
-#     range_end = 10 #Total number of available species
-#     default = 3
+class StartingSpecies(Range):
+    """Number of species unlocked at start"""
+    display_name = "Species Unlocked"
+    range_start = 1
+    range_end = 78  # Total number of available species
+    default = 3
 
-
-# @dataclass
-# class PlanetZooOptions(PerGameCommonOptions):
-#     num_starting_species:starting_species
 
 @dataclass
 class PlanetZooOptions(PerGameCommonOptions):
     starting_money: StartingMoney
-
+    num_starting_species: StartingSpecies

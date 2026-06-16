@@ -1,5 +1,54 @@
 [
     {
+        "name": "Research Welfare - Aardvark",
+        "trigger_type": "research_complete",
+        "trigger_args": {
+            "research_key": "welfare_aardvark"
+        }
+    },
+    {
+        "name": "Research Welfare - African Buffalo",
+        "trigger_type": "research_complete",
+        "trigger_args": {
+            "research_key": "welfare_abuffalo"
+        }
+    },
+    {
+        "name": "Research Welfare - African Leopard",
+        "trigger_type": "research_complete",
+        "trigger_args": {
+            "research_key": "welfare_aleopard"
+        }
+    },
+    {
+        "name": "Research Welfare - African Elephant",
+        "trigger_type": "research_complete",
+        "trigger_args": {
+            "research_key": "welfare_african_elephant"
+        }
+    },
+    {
+        "name": "Research Welfare - African Wild Dog",
+        "trigger_type": "research_complete",
+        "trigger_args": {
+            "research_key": "welfare_adog"
+        }
+    },
+    {
+        "name": "Research Welfare - Amazonian Giant Centipede",
+        "trigger_type": "research_complete",
+        "trigger_args": {
+            "research_key": "welfare_centipede"
+        }
+    },
+    {
+        "name": "Research Welfare - Amazonian Giant Centipede",
+        "trigger_type": "research_complete",
+        "trigger_args": {
+            "research_key": "welfare_centipede"
+        }
+    },
+    {
         "name": "Research Welfare - Plains Zebra",
         "trigger_type": "research_complete",
         "trigger_args": {
@@ -25,13 +74,6 @@
         "trigger_type": "research_complete",
         "trigger_args": {
             "research_key": "welfare_bengal_tiger"
-        }
-    },
-    {
-        "name": "Research Welfare - African Elephant",
-        "trigger_type": "research_complete",
-        "trigger_args": {
-            "research_key": "welfare_african_elephant"
         }
     },
     {
