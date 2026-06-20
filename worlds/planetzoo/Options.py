@@ -18,7 +18,16 @@ class StartingSpecies(Range):
     default = 3
 
 
+class StartingBarrierLevel(Range):
+    """What barrier level should be start with"""
+    display_name = "Barriers Unlocked"
+    range_start = 0
+    range_end = 6
+    default = 1
+
+
 @dataclass
 class PlanetZooOptions(PerGameCommonOptions):
     starting_money: StartingMoney
     num_starting_species: StartingSpecies
+    barrier_lvl_start: StartingBarrierLevel

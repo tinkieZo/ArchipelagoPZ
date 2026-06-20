@@ -55,6 +55,8 @@ class SpeciesesFormation(BaseModel):
     stringid: str
     label: str
     interactivity: Interactivity
+    water_needed: bool
+    fence_grade: int
 
     # {
     #     "stringid": "aardvark",
@@ -147,13 +149,16 @@ for species, animal_list in data.species.items():
 for section_name, option_list in data.mechanic.items():
     for this_option in option_list:
         if this_option.item not in unique_items:
-            unique_items[this_option.item] = ItemsData(
-                name=convert_readable(this_option.item),
-                ap_classification=get_classification(
-                    this_option.item, section_name),
-                version=Version.base,
-                quantity=1
-            )
+            if any(word in this_option.item for word in ["Barriers"]):
+                continue
+            else:
+                unique_items[this_option.item] = ItemsData(
+                    name=convert_readable(this_option.item),
+                    ap_classification=get_classification(
+                        this_option.item, section_name),
+                    version=Version.base,
+                    quantity=1
+                )
 
 # Add other items to the list: Old items from olditems.json, and permits for every animal? Animal groups?
 

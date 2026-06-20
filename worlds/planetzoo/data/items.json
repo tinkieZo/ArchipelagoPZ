@@ -24,42 +24,6 @@
         "quantity": 1
     },
     {
-        "name": "Barriers Chain Steel Posts",
-        "ap_classification": "Progression",
-        "version": "Base",
-        "quantity": 1
-    },
-    {
-        "name": "Barriers Concrete",
-        "ap_classification": "Progression",
-        "version": "Base",
-        "quantity": 1
-    },
-    {
-        "name": "Barriers Electric",
-        "ap_classification": "Progression",
-        "version": "Base",
-        "quantity": 1
-    },
-    {
-        "name": "Barriers One Way Glass",
-        "ap_classification": "Progression",
-        "version": "Base",
-        "quantity": 1
-    },
-    {
-        "name": "Barriers Rebar Stone Cages",
-        "ap_classification": "Progression",
-        "version": "Base",
-        "quantity": 1
-    },
-    {
-        "name": "Barriers Thick Glass",
-        "ap_classification": "Progression",
-        "version": "Base",
-        "quantity": 1
-    },
-    {
         "name": "Classic Theme Sets Blueprints Level 1",
         "ap_classification": "Normal",
         "version": "Base",

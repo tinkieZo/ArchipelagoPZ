@@ -1,6 +1,7 @@
 from __future__ import annotations
 from enum import Enum
 import json
+import pkgutil
 from typing import TYPE_CHECKING, List
 import typing
 
@@ -20,6 +21,7 @@ class LocationFormation(BaseModel):
     type: LocationType
     species_type: str
     water_needed: bool
+    fence_grade: int
 
 
 class LocationType(str, Enum):
@@ -34,15 +36,19 @@ class LocationData(typing.NamedTuple):
     LocationName: str
 
 
-with open("ArchipelagoPZ\worlds\planetzoo\data\specieslocations.json", "r") as species_json_file:
-    species_location_data = json.load(species_json_file)
+species_location_data = json.loads(pkgutil.get_data(
+    __name__, "data/specieslocations.json"))
+# with open("ArchipelagoPZ\worlds\planetzoo\data\specieslocations.json", "r") as species_json_file:
+#     species_location_data = json.load(species_json_file)
 
 
 species_location_list: List[LocationFormation] = [
     LocationFormation(**item) for item in species_location_data]
 
-with open("ArchipelagoPZ\worlds\planetzoo\data\mech_n_milestones.json", "r") as mech_n_milestones_json_file:
-    mech_n_milestones_data = json.load(mech_n_milestones_json_file)
+mech_n_milestones_data = json.loads(pkgutil.get_data(
+    __name__, "data/mech_n_milestones.json"))
+# with open("ArchipelagoPZ\worlds\planetzoo\data\mech_n_milestones.json", "r") as mech_n_milestones_json_file:
+#     mech_n_milestones_data = json.load(mech_n_milestones_json_file)
 
 
 mech_n_milestones_list: List[LocationFormation] = [
@@ -51,7 +57,7 @@ mech_n_milestones_list: List[LocationFormation] = [
 complete_location_list = species_location_list + mech_n_milestones_list
 
 location_name_to_id = {
-    loc_name.stringid: 2000 + index for index, loc_name in enumerate(complete_location_list)
+    loc_name.label: 2000 + index for index, loc_name in enumerate(complete_location_list)
 }
 
 
@@ -101,7 +107,7 @@ all_locations = [
 
 
 def get_location_names_with_ids(location_names: list[str]) -> dict[str, int | None]:
-    return {location_name.stringid: location_name_to_id[location_name.stringid] for location_name in location_names}
+    return {location_name.label: location_name_to_id[location_name.label] for location_name in location_names}
 
 
 def create_all_locations(world: PlanetZooWorld) -> None:
@@ -142,7 +148,7 @@ def create_regular_locations(world: PlanetZooWorld) -> None:
     # Remove fb_giant_panda out of the normal location pool
 
     filtered_firsts_locations = [
-        loc for loc in firsts_locations_names if loc.stringid != "fb_gpanda"]
+        loc for loc in firsts_locations_names if loc.label != "First Breeding - Giant Panda"]
     set_firsts_locations = get_location_names_with_ids(
         filtered_firsts_locations)
     firsts_locations.add_locations(set_firsts_locations, PlanetZooLocation)
@@ -153,7 +159,7 @@ def create_regular_locations(world: PlanetZooWorld) -> None:
 def create_goal_location(world: PlanetZooWorld) -> None:
     region = world.multiworld.get_region(RegionNames.menu, world.player)
     panda_location = next(
-        loc for loc in complete_location_list if loc.stringid == "fb_gpanda")
+        loc for loc in complete_location_list if loc.label == "First Breeding - Giant Panda")
     goal_location = PlanetZooLocation(
-        world.player, panda_location.stringid, None, region)
+        world.player, panda_location.label, None, region)
     region.locations.append(goal_location)

@@ -21,6 +21,7 @@ class SpeciesesFormation(BaseModel):
     label: str
     interactivity: Interactivity
     water_needed: bool
+    fence_grade: int
 
     # {
     #     "stringid": "aardvark",
@@ -35,6 +36,7 @@ class LocationFormation(BaseModel):
     type: LocationType
     species_type: str
     water_needed: bool
+    fence_grade: int
 
     # {
     #     "stringid" : "welfare1_aardvark",
@@ -54,7 +56,8 @@ def species_to_locations(species: SpeciesesFormation) -> list[LocationFormation]
                 label=f"Research Welfare {i+1} - {species.label}",
                 type=LocationType.research_welfare,
                 species_type=species.stringid,
-                water_needed=species.water_needed
+                water_needed=species.water_needed,
+                fence_grade=species.fence_grade
             ))
     else:
         for i in range(3):
@@ -63,7 +66,8 @@ def species_to_locations(species: SpeciesesFormation) -> list[LocationFormation]
                 label=f"Research Welfare {i+1} - {species.label}",
                 type=LocationType.research_welfare,
                 species_type=species.stringid,
-                water_needed=False
+                water_needed=False,
+                fence_grade=species.fence_grade
             ))
 
     locations.append(LocationFormation(
@@ -71,21 +75,24 @@ def species_to_locations(species: SpeciesesFormation) -> list[LocationFormation]
         label=f"First Breeding - {species.label}",
         type=LocationType.firsts,
         species_type=species.stringid,
-        water_needed=species.water_needed
+        water_needed=species.water_needed,
+        fence_grade=species.fence_grade
     ))
     locations.append(LocationFormation(
         stringid=f"fa_{species.stringid}",
-        label=f"First Aquisition - {species.label}",
+        label=f"First Acquisition - {species.label}",
         type=LocationType.firsts,
         species_type=species.stringid,
-        water_needed=species.water_needed
+        water_needed=species.water_needed,
+        fence_grade=species.fence_grade
     ))
     locations.append(LocationFormation(
         stringid=f"cr_{species.stringid}",
         label=f"Conservation Release - {species.label}",
         type=LocationType.conservation,
         species_type=species.stringid,
-        water_needed=species.water_needed
+        water_needed=species.water_needed,
+        fence_grade=species.fence_grade
     ))
 
     return locations

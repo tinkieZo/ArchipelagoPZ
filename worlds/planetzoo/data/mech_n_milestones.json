@@ -4,475 +4,543 @@
         "stringid": "africa1",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "Africa Theme Sets BlueprintsL1",
         "stringid": "africa2",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "AfricaThemeSetsBlueprintsL2",
         "stringid": "africa3",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "AfricaThemeSetsBlueprintsL3",
         "stringid": "africa4",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "BarriersRebarStoneCages",
         "stringid": "barrier1",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "BarriersChainSteelPosts",
         "stringid": "barrier2",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "BarriersConcrete",
         "stringid": "barrier3",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "BarriersElectric",
         "stringid": "barrier4",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "BarriersOneWayGlass",
         "stringid": "barrier5",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "BarriersThickGlass",
         "stringid": "barrier6",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "ClassicThemeSetsScenery",
         "stringid": "classic1",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "ClassicThemeSetsBlueprintsL1",
         "stringid": "classic2",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "ClassicThemeSetsBlueprintsL2",
         "stringid": "classic3",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "ClassicThemeSetsBlueprintsL3",
         "stringid": "classic4",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "DrinkShopsGulpeeSlush",
         "stringid": "drink_shop1",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "DrinkShopsPipshotWater",
         "stringid": "drink_shop2",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "DrinkShopsFoxyCoffee",
         "stringid": "drink_shop3",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "DrinkShopsCosmicCowMilkshakes",
         "stringid": "drink_shop4",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "DrinkShopsPipshotJuice",
         "stringid": "drink_shop5",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "DrinkShopsGulpeeEnergy",
         "stringid": "drink_shop6",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "DrinkShopsPipshotSmoothies",
         "stringid": "drink_shop7",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "FoodShopsHotdogSquad",
         "stringid": "food_shop1",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "FoodShopsPizzaPen",
         "stringid": "food_shop2",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "FoodShopsCosmicCowIceCream",
         "stringid": "food_shop3",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "FoodShopsMissyGood",
         "stringid": "food_shop4",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "FoodShopsMexelente",
         "stringid": "food_shop5",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "FoodShopsMonsieurFrites",
         "stringid": "food_shop6",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "HabitatsHabitatBlueprintsL1",
         "stringid": "habitat1",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "HabitatsHabitatBlueprintsL2",
         "stringid": "habitat2",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "HabitatsHabitatBlueprintsL3",
         "stringid": "habitat3",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "IndiaThemeSetsScenery",
         "stringid": "indian1",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "IndiaThemeSetsBlueprintsL1",
         "stringid": "indian2",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "IndiaThemeSetsBlueprintsL2",
         "stringid": "indian3",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "IndiaThemeSetsBlueprintsL3",
         "stringid": "indian4",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "ModernThemeSetsScenery",
         "stringid": "modern1",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "ModernThemeSetsBlueprintsL1",
         "stringid": "modern2",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "ModernThemeSetsBlueprintsL2",
         "stringid": "modern3",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "ModernThemeSetsBlueprintsL3",
         "stringid": "modern4",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "OrientThemeSetsScenery",
         "stringid": "orient1",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "OrientThemeSetsBlueprintsL1",
         "stringid": "orient2",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "OrientThemeSetsBlueprintsL2",
         "stringid": "orient3",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "OrientThemeSetsBlueprintsL3",
         "stringid": "orient4",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "PowerWindTurbine",
         "stringid": "power1",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "PowerSolarPanel",
         "stringid": "power2",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "SheltersShelterBlueprintsL1",
         "stringid": "shelter1",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "SheltersShelterBlueprintsL2",
         "stringid": "shelter2",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "SheltersShelterBlueprintsL3",
         "stringid": "shelter3",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "SouvenirShopsJustAMomento",
         "stringid": "souvenir_shop1",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "SouvenirShopsHatsFantastic",
         "stringid": "souvenir_shop2",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "StaffFacilitiesKeeperHutLarge",
         "stringid": "sf_keeperhut_l",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "StaffFacilitiesStaffCentreLarge",
         "stringid": "sf_staff_room_l",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "StaffFacilitiesQuarantineLarge",
         "stringid": "sf_quarantine_l",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "StaffFacilitiesResearchCentreLarge",
         "stringid": "sf_research_centre_l",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "TransportBoatRideStation",
         "stringid": "transport1",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "TransportSuspendedGondola",
         "stringid": "transport2",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "TransportSteamTrainStation",
         "stringid": "transport3",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "TransportSafariJeepStation",
         "stringid": "transport4",
         "type": "mechanic",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "Zoo Rating - 1",
         "stringid": "zoo_rating1",
         "type": "milestones",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "Zoo Rating - 2",
         "stringid": "zoo_rating2",
         "type": "milestones",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "Zoo Rating - 3",
         "stringid": "zoo_rating3",
         "type": "milestones",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "Zoo Rating - 4",
         "stringid": "zoo_rating4",
         "type": "milestones",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "Zoo Rating - 5",
         "stringid": "zoo_rating5",
         "type": "milestones",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "Guests - 250",
         "stringid": "guests_250",
         "type": "milestones",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "Guests - 500",
         "stringid": "guests_500",
         "type": "milestones",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "Guests - 750",
         "stringid": "guests_750",
         "type": "milestones",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "Guests - 1000",
         "stringid": "guests_1000",
         "type": "milestones",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "Guests - 1250",
         "stringid": "guests_1250",
         "type": "milestones",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "label": "Guests - 2500",
         "stringid": "guests_2500",
         "type": "milestones",
         "species_type": "none",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     }
 ]

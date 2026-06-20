@@ -82,5 +82,11 @@
         "ap_classification": "Useful",
         "version": "Base",
         "quantity": 3
+    },
+    {
+        "name": "Progressive Barrier Level",
+        "ap_classification": "Progression",
+        "version": "Base",
+        "quantity": 6
     }
 ]

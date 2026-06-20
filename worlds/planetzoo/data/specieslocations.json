@@ -4,4409 +4,5039 @@
         "label": "Research Welfare 1 - Aardvark",
         "type": "research welfare",
         "species_type": "aardvark",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_aardvark",
         "label": "Research Welfare 2 - Aardvark",
         "type": "research welfare",
         "species_type": "aardvark",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_aardvark",
         "label": "Research Welfare 3 - Aardvark",
         "type": "research welfare",
         "species_type": "aardvark",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_aardvark",
         "label": "Research Welfare 4 - Aardvark",
         "type": "research welfare",
         "species_type": "aardvark",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_aardvark",
         "label": "Research Welfare 5 - Aardvark",
         "type": "research welfare",
         "species_type": "aardvark",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_aardvark",
         "label": "Research Welfare 6 - Aardvark",
         "type": "research welfare",
         "species_type": "aardvark",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_aardvark",
         "label": "First Breeding - Aardvark",
         "type": "firsts",
         "species_type": "aardvark",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_aardvark",
-        "label": "First Aquisition - Aardvark",
+        "label": "First Acquisition - Aardvark",
         "type": "firsts",
         "species_type": "aardvark",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_aardvark",
         "label": "Conservation Release - Aardvark",
         "type": "conservation",
         "species_type": "aardvark",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_abuffalo",
         "label": "Research Welfare 1 - African Buffalo",
         "type": "research welfare",
         "species_type": "abuffalo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare2_abuffalo",
         "label": "Research Welfare 2 - African Buffalo",
         "type": "research welfare",
         "species_type": "abuffalo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare3_abuffalo",
         "label": "Research Welfare 3 - African Buffalo",
         "type": "research welfare",
         "species_type": "abuffalo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare4_abuffalo",
         "label": "Research Welfare 4 - African Buffalo",
         "type": "research welfare",
         "species_type": "abuffalo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare5_abuffalo",
         "label": "Research Welfare 5 - African Buffalo",
         "type": "research welfare",
         "species_type": "abuffalo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare6_abuffalo",
         "label": "Research Welfare 6 - African Buffalo",
         "type": "research welfare",
         "species_type": "abuffalo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 3
     },
     {
         "stringid": "fb_abuffalo",
         "label": "First Breeding - African Buffalo",
         "type": "firsts",
         "species_type": "abuffalo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 3
     },
     {
         "stringid": "fa_abuffalo",
-        "label": "First Aquisition - African Buffalo",
+        "label": "First Acquisition - African Buffalo",
         "type": "firsts",
         "species_type": "abuffalo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 3
     },
     {
         "stringid": "cr_abuffalo",
         "label": "Conservation Release - African Buffalo",
         "type": "conservation",
         "species_type": "abuffalo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare1_aleopard",
         "label": "Research Welfare 1 - African Leopard",
         "type": "research welfare",
         "species_type": "aleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare2_aleopard",
         "label": "Research Welfare 2 - African Leopard",
         "type": "research welfare",
         "species_type": "aleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare3_aleopard",
         "label": "Research Welfare 3 - African Leopard",
         "type": "research welfare",
         "species_type": "aleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare4_aleopard",
         "label": "Research Welfare 4 - African Leopard",
         "type": "research welfare",
         "species_type": "aleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare5_aleopard",
         "label": "Research Welfare 5 - African Leopard",
         "type": "research welfare",
         "species_type": "aleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare6_aleopard",
         "label": "Research Welfare 6 - African Leopard",
         "type": "research welfare",
         "species_type": "aleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fb_aleopard",
         "label": "First Breeding - African Leopard",
         "type": "firsts",
         "species_type": "aleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fa_aleopard",
-        "label": "First Aquisition - African Leopard",
+        "label": "First Acquisition - African Leopard",
         "type": "firsts",
         "species_type": "aleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "cr_aleopard",
         "label": "Conservation Release - African Leopard",
         "type": "conservation",
         "species_type": "aleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare1_aelephant",
         "label": "Research Welfare 1 - African Savannah Elephant",
         "type": "research welfare",
         "species_type": "aelephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare2_aelephant",
         "label": "Research Welfare 2 - African Savannah Elephant",
         "type": "research welfare",
         "species_type": "aelephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare3_aelephant",
         "label": "Research Welfare 3 - African Savannah Elephant",
         "type": "research welfare",
         "species_type": "aelephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare4_aelephant",
         "label": "Research Welfare 4 - African Savannah Elephant",
         "type": "research welfare",
         "species_type": "aelephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare5_aelephant",
         "label": "Research Welfare 5 - African Savannah Elephant",
         "type": "research welfare",
         "species_type": "aelephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare6_aelephant",
         "label": "Research Welfare 6 - African Savannah Elephant",
         "type": "research welfare",
         "species_type": "aelephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "fb_aelephant",
         "label": "First Breeding - African Savannah Elephant",
         "type": "firsts",
         "species_type": "aelephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "fa_aelephant",
-        "label": "First Aquisition - African Savannah Elephant",
+        "label": "First Acquisition - African Savannah Elephant",
         "type": "firsts",
         "species_type": "aelephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "cr_aelephant",
         "label": "Conservation Release - African Savannah Elephant",
         "type": "conservation",
         "species_type": "aelephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare1_adog",
         "label": "Research Welfare 1 - African Wild Dog",
         "type": "research welfare",
         "species_type": "adog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_adog",
         "label": "Research Welfare 2 - African Wild Dog",
         "type": "research welfare",
         "species_type": "adog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_adog",
         "label": "Research Welfare 3 - African Wild Dog",
         "type": "research welfare",
         "species_type": "adog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_adog",
         "label": "Research Welfare 4 - African Wild Dog",
         "type": "research welfare",
         "species_type": "adog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_adog",
         "label": "Research Welfare 5 - African Wild Dog",
         "type": "research welfare",
         "species_type": "adog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_adog",
         "label": "Research Welfare 6 - African Wild Dog",
         "type": "research welfare",
         "species_type": "adog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_adog",
         "label": "First Breeding - African Wild Dog",
         "type": "firsts",
         "species_type": "adog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_adog",
-        "label": "First Aquisition - African Wild Dog",
+        "label": "First Acquisition - African Wild Dog",
         "type": "firsts",
         "species_type": "adog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_adog",
         "label": "Conservation Release - African Wild Dog",
         "type": "conservation",
         "species_type": "adog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_atortoise",
         "label": "Research Welfare 1 - Aldabra Giant Tortoise",
         "type": "research welfare",
         "species_type": "atortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare2_atortoise",
         "label": "Research Welfare 2 - Aldabra Giant Tortoise",
         "type": "research welfare",
         "species_type": "atortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare3_atortoise",
         "label": "Research Welfare 3 - Aldabra Giant Tortoise",
         "type": "research welfare",
         "species_type": "atortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare4_atortoise",
         "label": "Research Welfare 4 - Aldabra Giant Tortoise",
         "type": "research welfare",
         "species_type": "atortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare5_atortoise",
         "label": "Research Welfare 5 - Aldabra Giant Tortoise",
         "type": "research welfare",
         "species_type": "atortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare6_atortoise",
         "label": "Research Welfare 6 - Aldabra Giant Tortoise",
         "type": "research welfare",
         "species_type": "atortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "fb_atortoise",
         "label": "First Breeding - Aldabra Giant Tortoise",
         "type": "firsts",
         "species_type": "atortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "fa_atortoise",
-        "label": "First Aquisition - Aldabra Giant Tortoise",
+        "label": "First Acquisition - Aldabra Giant Tortoise",
         "type": "firsts",
         "species_type": "atortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "cr_atortoise",
         "label": "Conservation Release - Aldabra Giant Tortoise",
         "type": "conservation",
         "species_type": "atortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare1_abison",
         "label": "Research Welfare 1 - American Bison",
         "type": "research welfare",
         "species_type": "abison",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare2_abison",
         "label": "Research Welfare 2 - American Bison",
         "type": "research welfare",
         "species_type": "abison",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare3_abison",
         "label": "Research Welfare 3 - American Bison",
         "type": "research welfare",
         "species_type": "abison",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare4_abison",
         "label": "Research Welfare 4 - American Bison",
         "type": "research welfare",
         "species_type": "abison",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare5_abison",
         "label": "Research Welfare 5 - American Bison",
         "type": "research welfare",
         "species_type": "abison",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare6_abison",
         "label": "Research Welfare 6 - American Bison",
         "type": "research welfare",
         "species_type": "abison",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fb_abison",
         "label": "First Breeding - American Bison",
         "type": "firsts",
         "species_type": "abison",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fa_abison",
-        "label": "First Aquisition - American Bison",
+        "label": "First Acquisition - American Bison",
         "type": "firsts",
         "species_type": "abison",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "cr_abison",
         "label": "Conservation Release - American Bison",
         "type": "conservation",
         "species_type": "abison",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare1_bcamel",
         "label": "Research Welfare 1 - Bactrian Camel",
         "type": "research welfare",
         "species_type": "bcamel",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_bcamel",
         "label": "Research Welfare 2 - Bactrian Camel",
         "type": "research welfare",
         "species_type": "bcamel",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_bcamel",
         "label": "Research Welfare 3 - Bactrian Camel",
         "type": "research welfare",
         "species_type": "bcamel",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_bcamel",
         "label": "Research Welfare 4 - Bactrian Camel",
         "type": "research welfare",
         "species_type": "bcamel",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_bcamel",
         "label": "Research Welfare 5 - Bactrian Camel",
         "type": "research welfare",
         "species_type": "bcamel",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_bcamel",
         "label": "Research Welfare 6 - Bactrian Camel",
         "type": "research welfare",
         "species_type": "bcamel",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_bcamel",
         "label": "First Breeding - Bactrian Camel",
         "type": "firsts",
         "species_type": "bcamel",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_bcamel",
-        "label": "First Aquisition - Bactrian Camel",
+        "label": "First Acquisition - Bactrian Camel",
         "type": "firsts",
         "species_type": "bcamel",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_bcamel",
         "label": "Conservation Release - Bactrian Camel",
         "type": "conservation",
         "species_type": "bcamel",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_btapir",
         "label": "Research Welfare 1 - Bairds Tapir",
         "type": "research welfare",
         "species_type": "btapir",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_btapir",
         "label": "Research Welfare 2 - Bairds Tapir",
         "type": "research welfare",
         "species_type": "btapir",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_btapir",
         "label": "Research Welfare 3 - Bairds Tapir",
         "type": "research welfare",
         "species_type": "btapir",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_btapir",
         "label": "Research Welfare 4 - Bairds Tapir",
         "type": "research welfare",
         "species_type": "btapir",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_btapir",
         "label": "Research Welfare 5 - Bairds Tapir",
         "type": "research welfare",
         "species_type": "btapir",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_btapir",
         "label": "Research Welfare 6 - Bairds Tapir",
         "type": "research welfare",
         "species_type": "btapir",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_btapir",
         "label": "First Breeding - Bairds Tapir",
         "type": "firsts",
         "species_type": "btapir",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_btapir",
-        "label": "First Aquisition - Bairds Tapir",
+        "label": "First Acquisition - Bairds Tapir",
         "type": "firsts",
         "species_type": "btapir",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_btapir",
         "label": "Conservation Release - Bairds Tapir",
         "type": "conservation",
         "species_type": "btapir",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_btiger",
         "label": "Research Welfare 1 - Bengal Tiger",
         "type": "research welfare",
         "species_type": "btiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare2_btiger",
         "label": "Research Welfare 2 - Bengal Tiger",
         "type": "research welfare",
         "species_type": "btiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare3_btiger",
         "label": "Research Welfare 3 - Bengal Tiger",
         "type": "research welfare",
         "species_type": "btiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare4_btiger",
         "label": "Research Welfare 4 - Bengal Tiger",
         "type": "research welfare",
         "species_type": "btiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare5_btiger",
         "label": "Research Welfare 5 - Bengal Tiger",
         "type": "research welfare",
         "species_type": "btiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare6_btiger",
         "label": "Research Welfare 6 - Bengal Tiger",
         "type": "research welfare",
         "species_type": "btiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fb_btiger",
         "label": "First Breeding - Bengal Tiger",
         "type": "firsts",
         "species_type": "btiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fa_btiger",
-        "label": "First Aquisition - Bengal Tiger",
+        "label": "First Acquisition - Bengal Tiger",
         "type": "firsts",
         "species_type": "btiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "cr_btiger",
         "label": "Conservation Release - Bengal Tiger",
         "type": "conservation",
         "species_type": "btiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare1_bwildebeest",
         "label": "Research Welfare 1 - Black Wildebeest",
         "type": "research welfare",
         "species_type": "bwildebeest",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_bwildebeest",
         "label": "Research Welfare 2 - Black Wildebeest",
         "type": "research welfare",
         "species_type": "bwildebeest",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_bwildebeest",
         "label": "Research Welfare 3 - Black Wildebeest",
         "type": "research welfare",
         "species_type": "bwildebeest",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_bwildebeest",
         "label": "Research Welfare 4 - Black Wildebeest",
         "type": "research welfare",
         "species_type": "bwildebeest",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_bwildebeest",
         "label": "Research Welfare 5 - Black Wildebeest",
         "type": "research welfare",
         "species_type": "bwildebeest",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_bwildebeest",
         "label": "Research Welfare 6 - Black Wildebeest",
         "type": "research welfare",
         "species_type": "bwildebeest",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_bwildebeest",
         "label": "First Breeding - Black Wildebeest",
         "type": "firsts",
         "species_type": "bwildebeest",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_bwildebeest",
-        "label": "First Aquisition - Black Wildebeest",
+        "label": "First Acquisition - Black Wildebeest",
         "type": "firsts",
         "species_type": "bwildebeest",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_bwildebeest",
         "label": "Conservation Release - Black Wildebeest",
         "type": "conservation",
         "species_type": "bwildebeest",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_blemur",
         "label": "Research Welfare 1 - Black a White Ruffed Lemur",
         "type": "research welfare",
         "species_type": "blemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare2_blemur",
         "label": "Research Welfare 2 - Black a White Ruffed Lemur",
         "type": "research welfare",
         "species_type": "blemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare3_blemur",
         "label": "Research Welfare 3 - Black a White Ruffed Lemur",
         "type": "research welfare",
         "species_type": "blemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare4_blemur",
         "label": "Research Welfare 4 - Black a White Ruffed Lemur",
         "type": "research welfare",
         "species_type": "blemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare5_blemur",
         "label": "Research Welfare 5 - Black a White Ruffed Lemur",
         "type": "research welfare",
         "species_type": "blemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare6_blemur",
         "label": "Research Welfare 6 - Black a White Ruffed Lemur",
         "type": "research welfare",
         "species_type": "blemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "fb_blemur",
         "label": "First Breeding - Black a White Ruffed Lemur",
         "type": "firsts",
         "species_type": "blemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "fa_blemur",
-        "label": "First Aquisition - Black a White Ruffed Lemur",
+        "label": "First Acquisition - Black a White Ruffed Lemur",
         "type": "firsts",
         "species_type": "blemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "cr_blemur",
         "label": "Conservation Release - Black a White Ruffed Lemur",
         "type": "conservation",
         "species_type": "blemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare1_bongo",
         "label": "Research Welfare 1 - Bongo",
         "type": "research welfare",
         "species_type": "bongo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_bongo",
         "label": "Research Welfare 2 - Bongo",
         "type": "research welfare",
         "species_type": "bongo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_bongo",
         "label": "Research Welfare 3 - Bongo",
         "type": "research welfare",
         "species_type": "bongo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_bongo",
         "label": "Research Welfare 4 - Bongo",
         "type": "research welfare",
         "species_type": "bongo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_bongo",
         "label": "Research Welfare 5 - Bongo",
         "type": "research welfare",
         "species_type": "bongo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_bongo",
         "label": "Research Welfare 6 - Bongo",
         "type": "research welfare",
         "species_type": "bongo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_bongo",
         "label": "First Breeding - Bongo",
         "type": "firsts",
         "species_type": "bongo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_bongo",
-        "label": "First Aquisition - Bongo",
+        "label": "First Acquisition - Bongo",
         "type": "firsts",
         "species_type": "bongo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_bongo",
         "label": "Conservation Release - Bongo",
         "type": "conservation",
         "species_type": "bongo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_bonobo",
         "label": "Research Welfare 1 - Bonobo",
         "type": "research welfare",
         "species_type": "bonobo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare2_bonobo",
         "label": "Research Welfare 2 - Bonobo",
         "type": "research welfare",
         "species_type": "bonobo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare3_bonobo",
         "label": "Research Welfare 3 - Bonobo",
         "type": "research welfare",
         "species_type": "bonobo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare4_bonobo",
         "label": "Research Welfare 4 - Bonobo",
         "type": "research welfare",
         "species_type": "bonobo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare5_bonobo",
         "label": "Research Welfare 5 - Bonobo",
         "type": "research welfare",
         "species_type": "bonobo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare6_bonobo",
         "label": "Research Welfare 6 - Bonobo",
         "type": "research welfare",
         "species_type": "bonobo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fb_bonobo",
         "label": "First Breeding - Bonobo",
         "type": "firsts",
         "species_type": "bonobo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fa_bonobo",
-        "label": "First Aquisition - Bonobo",
+        "label": "First Acquisition - Bonobo",
         "type": "firsts",
         "species_type": "bonobo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "cr_bonobo",
         "label": "Conservation Release - Bonobo",
         "type": "conservation",
         "species_type": "bonobo",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare1_borangutan",
         "label": "Research Welfare 1 - Bornean Orangutan",
         "type": "research welfare",
         "species_type": "borangutan",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare2_borangutan",
         "label": "Research Welfare 2 - Bornean Orangutan",
         "type": "research welfare",
         "species_type": "borangutan",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare3_borangutan",
         "label": "Research Welfare 3 - Bornean Orangutan",
         "type": "research welfare",
         "species_type": "borangutan",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare4_borangutan",
         "label": "Research Welfare 4 - Bornean Orangutan",
         "type": "research welfare",
         "species_type": "borangutan",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare5_borangutan",
         "label": "Research Welfare 5 - Bornean Orangutan",
         "type": "research welfare",
         "species_type": "borangutan",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare6_borangutan",
         "label": "Research Welfare 6 - Bornean Orangutan",
         "type": "research welfare",
         "species_type": "borangutan",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fb_borangutan",
         "label": "First Breeding - Bornean Orangutan",
         "type": "firsts",
         "species_type": "borangutan",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fa_borangutan",
-        "label": "First Aquisition - Bornean Orangutan",
+        "label": "First Acquisition - Bornean Orangutan",
         "type": "firsts",
         "species_type": "borangutan",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "cr_borangutan",
         "label": "Conservation Release - Bornean Orangutan",
         "type": "conservation",
         "species_type": "borangutan",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare1_cheetah",
         "label": "Research Welfare 1 - Cheetah",
         "type": "research welfare",
         "species_type": "cheetah",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_cheetah",
         "label": "Research Welfare 2 - Cheetah",
         "type": "research welfare",
         "species_type": "cheetah",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_cheetah",
         "label": "Research Welfare 3 - Cheetah",
         "type": "research welfare",
         "species_type": "cheetah",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_cheetah",
         "label": "Research Welfare 4 - Cheetah",
         "type": "research welfare",
         "species_type": "cheetah",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_cheetah",
         "label": "Research Welfare 5 - Cheetah",
         "type": "research welfare",
         "species_type": "cheetah",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_cheetah",
         "label": "Research Welfare 6 - Cheetah",
         "type": "research welfare",
         "species_type": "cheetah",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_cheetah",
         "label": "First Breeding - Cheetah",
         "type": "firsts",
         "species_type": "cheetah",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_cheetah",
-        "label": "First Aquisition - Cheetah",
+        "label": "First Acquisition - Cheetah",
         "type": "firsts",
         "species_type": "cheetah",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_cheetah",
         "label": "Conservation Release - Cheetah",
         "type": "conservation",
         "species_type": "cheetah",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_cpangolin",
         "label": "Research Welfare 1 - Chinese Pangolin",
         "type": "research welfare",
         "species_type": "cpangolin",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_cpangolin",
         "label": "Research Welfare 2 - Chinese Pangolin",
         "type": "research welfare",
         "species_type": "cpangolin",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_cpangolin",
         "label": "Research Welfare 3 - Chinese Pangolin",
         "type": "research welfare",
         "species_type": "cpangolin",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_cpangolin",
         "label": "Research Welfare 4 - Chinese Pangolin",
         "type": "research welfare",
         "species_type": "cpangolin",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_cpangolin",
         "label": "Research Welfare 5 - Chinese Pangolin",
         "type": "research welfare",
         "species_type": "cpangolin",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_cpangolin",
         "label": "Research Welfare 6 - Chinese Pangolin",
         "type": "research welfare",
         "species_type": "cpangolin",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_cpangolin",
         "label": "First Breeding - Chinese Pangolin",
         "type": "firsts",
         "species_type": "cpangolin",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_cpangolin",
-        "label": "First Aquisition - Chinese Pangolin",
+        "label": "First Acquisition - Chinese Pangolin",
         "type": "firsts",
         "species_type": "cpangolin",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_cpangolin",
         "label": "Conservation Release - Chinese Pangolin",
         "type": "conservation",
         "species_type": "cpangolin",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_cpeccary",
         "label": "Research Welfare 1 - Collared Peccary",
         "type": "research welfare",
         "species_type": "cpeccary",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_cpeccary",
         "label": "Research Welfare 2 - Collared Peccary",
         "type": "research welfare",
         "species_type": "cpeccary",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_cpeccary",
         "label": "Research Welfare 3 - Collared Peccary",
         "type": "research welfare",
         "species_type": "cpeccary",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_cpeccary",
         "label": "Research Welfare 4 - Collared Peccary",
         "type": "research welfare",
         "species_type": "cpeccary",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_cpeccary",
         "label": "Research Welfare 5 - Collared Peccary",
         "type": "research welfare",
         "species_type": "cpeccary",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_cpeccary",
         "label": "Research Welfare 6 - Collared Peccary",
         "type": "research welfare",
         "species_type": "cpeccary",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_cpeccary",
         "label": "First Breeding - Collared Peccary",
         "type": "firsts",
         "species_type": "cpeccary",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_cpeccary",
-        "label": "First Aquisition - Collared Peccary",
+        "label": "First Acquisition - Collared Peccary",
         "type": "firsts",
         "species_type": "cpeccary",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_cpeccary",
         "label": "Conservation Release - Collared Peccary",
         "type": "conservation",
         "species_type": "cpeccary",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_costrich",
         "label": "Research Welfare 1 - Common Ostrich",
         "type": "research welfare",
         "species_type": "costrich",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_costrich",
         "label": "Research Welfare 2 - Common Ostrich",
         "type": "research welfare",
         "species_type": "costrich",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_costrich",
         "label": "Research Welfare 3 - Common Ostrich",
         "type": "research welfare",
         "species_type": "costrich",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_costrich",
         "label": "Research Welfare 4 - Common Ostrich",
         "type": "research welfare",
         "species_type": "costrich",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_costrich",
         "label": "Research Welfare 5 - Common Ostrich",
         "type": "research welfare",
         "species_type": "costrich",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_costrich",
         "label": "Research Welfare 6 - Common Ostrich",
         "type": "research welfare",
         "species_type": "costrich",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_costrich",
         "label": "First Breeding - Common Ostrich",
         "type": "firsts",
         "species_type": "costrich",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_costrich",
-        "label": "First Aquisition - Common Ostrich",
+        "label": "First Acquisition - Common Ostrich",
         "type": "firsts",
         "species_type": "costrich",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_costrich",
         "label": "Conservation Release - Common Ostrich",
         "type": "conservation",
         "species_type": "costrich",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_cwarthog",
         "label": "Research Welfare 1 - Common Warthog",
         "type": "research welfare",
         "species_type": "cwarthog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_cwarthog",
         "label": "Research Welfare 2 - Common Warthog",
         "type": "research welfare",
         "species_type": "cwarthog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_cwarthog",
         "label": "Research Welfare 3 - Common Warthog",
         "type": "research welfare",
         "species_type": "cwarthog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_cwarthog",
         "label": "Research Welfare 4 - Common Warthog",
         "type": "research welfare",
         "species_type": "cwarthog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_cwarthog",
         "label": "Research Welfare 5 - Common Warthog",
         "type": "research welfare",
         "species_type": "cwarthog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_cwarthog",
         "label": "Research Welfare 6 - Common Warthog",
         "type": "research welfare",
         "species_type": "cwarthog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_cwarthog",
         "label": "First Breeding - Common Warthog",
         "type": "firsts",
         "species_type": "cwarthog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_cwarthog",
-        "label": "First Aquisition - Common Warthog",
+        "label": "First Acquisition - Common Warthog",
         "type": "firsts",
         "species_type": "cwarthog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_cwarthog",
         "label": "Conservation Release - Common Warthog",
         "type": "conservation",
         "species_type": "cwarthog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_fbear",
         "label": "Research Welfare 1 - Formosan Black Bear",
         "type": "research welfare",
         "species_type": "fbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare2_fbear",
         "label": "Research Welfare 2 - Formosan Black Bear",
         "type": "research welfare",
         "species_type": "fbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare3_fbear",
         "label": "Research Welfare 3 - Formosan Black Bear",
         "type": "research welfare",
         "species_type": "fbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare4_fbear",
         "label": "Research Welfare 4 - Formosan Black Bear",
         "type": "research welfare",
         "species_type": "fbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare5_fbear",
         "label": "Research Welfare 5 - Formosan Black Bear",
         "type": "research welfare",
         "species_type": "fbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare6_fbear",
         "label": "Research Welfare 6 - Formosan Black Bear",
         "type": "research welfare",
         "species_type": "fbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "fb_fbear",
         "label": "First Breeding - Formosan Black Bear",
         "type": "firsts",
         "species_type": "fbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "fa_fbear",
-        "label": "First Aquisition - Formosan Black Bear",
+        "label": "First Acquisition - Formosan Black Bear",
         "type": "firsts",
         "species_type": "fbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "cr_fbear",
         "label": "Conservation Release - Formosan Black Bear",
         "type": "conservation",
         "species_type": "fbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare1_gtortoise",
         "label": "Research Welfare 1 - Galapagos Giant Tortoise",
         "type": "research welfare",
         "species_type": "gtortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare2_gtortoise",
         "label": "Research Welfare 2 - Galapagos Giant Tortoise",
         "type": "research welfare",
         "species_type": "gtortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare3_gtortoise",
         "label": "Research Welfare 3 - Galapagos Giant Tortoise",
         "type": "research welfare",
         "species_type": "gtortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare4_gtortoise",
         "label": "Research Welfare 4 - Galapagos Giant Tortoise",
         "type": "research welfare",
         "species_type": "gtortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare5_gtortoise",
         "label": "Research Welfare 5 - Galapagos Giant Tortoise",
         "type": "research welfare",
         "species_type": "gtortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare6_gtortoise",
         "label": "Research Welfare 6 - Galapagos Giant Tortoise",
         "type": "research welfare",
         "species_type": "gtortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "fb_gtortoise",
         "label": "First Breeding - Galapagos Giant Tortoise",
         "type": "firsts",
         "species_type": "gtortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "fa_gtortoise",
-        "label": "First Aquisition - Galapagos Giant Tortoise",
+        "label": "First Acquisition - Galapagos Giant Tortoise",
         "type": "firsts",
         "species_type": "gtortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "cr_gtortoise",
         "label": "Conservation Release - Galapagos Giant Tortoise",
         "type": "conservation",
         "species_type": "gtortoise",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare1_gemsbok",
         "label": "Research Welfare 1 - Gemsbok",
         "type": "research welfare",
         "species_type": "gemsbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_gemsbok",
         "label": "Research Welfare 2 - Gemsbok",
         "type": "research welfare",
         "species_type": "gemsbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_gemsbok",
         "label": "Research Welfare 3 - Gemsbok",
         "type": "research welfare",
         "species_type": "gemsbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_gemsbok",
         "label": "Research Welfare 4 - Gemsbok",
         "type": "research welfare",
         "species_type": "gemsbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_gemsbok",
         "label": "Research Welfare 5 - Gemsbok",
         "type": "research welfare",
         "species_type": "gemsbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_gemsbok",
         "label": "Research Welfare 6 - Gemsbok",
         "type": "research welfare",
         "species_type": "gemsbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_gemsbok",
         "label": "First Breeding - Gemsbok",
         "type": "firsts",
         "species_type": "gemsbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_gemsbok",
-        "label": "First Aquisition - Gemsbok",
+        "label": "First Acquisition - Gemsbok",
         "type": "firsts",
         "species_type": "gemsbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_gemsbok",
         "label": "Conservation Release - Gemsbok",
         "type": "conservation",
         "species_type": "gemsbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_gharial",
         "label": "Research Welfare 1 - Gharial",
         "type": "research welfare",
         "species_type": "gharial",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_gharial",
         "label": "Research Welfare 2 - Gharial",
         "type": "research welfare",
         "species_type": "gharial",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_gharial",
         "label": "Research Welfare 3 - Gharial",
         "type": "research welfare",
         "species_type": "gharial",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_gharial",
         "label": "Research Welfare 4 - Gharial",
         "type": "research welfare",
         "species_type": "gharial",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_gharial",
         "label": "Research Welfare 5 - Gharial",
         "type": "research welfare",
         "species_type": "gharial",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_gharial",
         "label": "Research Welfare 6 - Gharial",
         "type": "research welfare",
         "species_type": "gharial",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_gharial",
         "label": "First Breeding - Gharial",
         "type": "firsts",
         "species_type": "gharial",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_gharial",
-        "label": "First Aquisition - Gharial",
+        "label": "First Acquisition - Gharial",
         "type": "firsts",
         "species_type": "gharial",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_gharial",
         "label": "Conservation Release - Gharial",
         "type": "conservation",
         "species_type": "gharial",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_gpanda",
         "label": "Research Welfare 1 - Giant Panda",
         "type": "research welfare",
         "species_type": "gpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare2_gpanda",
         "label": "Research Welfare 2 - Giant Panda",
         "type": "research welfare",
         "species_type": "gpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare3_gpanda",
         "label": "Research Welfare 3 - Giant Panda",
         "type": "research welfare",
         "species_type": "gpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare4_gpanda",
         "label": "Research Welfare 4 - Giant Panda",
         "type": "research welfare",
         "species_type": "gpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare5_gpanda",
         "label": "Research Welfare 5 - Giant Panda",
         "type": "research welfare",
         "species_type": "gpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare6_gpanda",
         "label": "Research Welfare 6 - Giant Panda",
         "type": "research welfare",
         "species_type": "gpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "fb_gpanda",
         "label": "First Breeding - Giant Panda",
         "type": "firsts",
         "species_type": "gpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "fa_gpanda",
-        "label": "First Aquisition - Giant Panda",
+        "label": "First Acquisition - Giant Panda",
         "type": "firsts",
         "species_type": "gpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "cr_gpanda",
         "label": "Conservation Release - Giant Panda",
         "type": "conservation",
         "species_type": "gpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare1_gflamingo",
         "label": "Research Welfare 1 - Greater Flamingo",
         "type": "research welfare",
         "species_type": "gflamingo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare2_gflamingo",
         "label": "Research Welfare 2 - Greater Flamingo",
         "type": "research welfare",
         "species_type": "gflamingo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare3_gflamingo",
         "label": "Research Welfare 3 - Greater Flamingo",
         "type": "research welfare",
         "species_type": "gflamingo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare4_gflamingo",
         "label": "Research Welfare 4 - Greater Flamingo",
         "type": "research welfare",
         "species_type": "gflamingo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare5_gflamingo",
         "label": "Research Welfare 5 - Greater Flamingo",
         "type": "research welfare",
         "species_type": "gflamingo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare6_gflamingo",
         "label": "Research Welfare 6 - Greater Flamingo",
         "type": "research welfare",
         "species_type": "gflamingo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 1
     },
     {
         "stringid": "fb_gflamingo",
         "label": "First Breeding - Greater Flamingo",
         "type": "firsts",
         "species_type": "gflamingo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 1
     },
     {
         "stringid": "fa_gflamingo",
-        "label": "First Aquisition - Greater Flamingo",
+        "label": "First Acquisition - Greater Flamingo",
         "type": "firsts",
         "species_type": "gflamingo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 1
     },
     {
         "stringid": "cr_gflamingo",
         "label": "Conservation Release - Greater Flamingo",
         "type": "conservation",
         "species_type": "gflamingo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare1_gbear",
         "label": "Research Welfare 1 - Grizzly Bear",
         "type": "research welfare",
         "species_type": "gbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare2_gbear",
         "label": "Research Welfare 2 - Grizzly Bear",
         "type": "research welfare",
         "species_type": "gbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare3_gbear",
         "label": "Research Welfare 3 - Grizzly Bear",
         "type": "research welfare",
         "species_type": "gbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare4_gbear",
         "label": "Research Welfare 4 - Grizzly Bear",
         "type": "research welfare",
         "species_type": "gbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare5_gbear",
         "label": "Research Welfare 5 - Grizzly Bear",
         "type": "research welfare",
         "species_type": "gbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare6_gbear",
         "label": "Research Welfare 6 - Grizzly Bear",
         "type": "research welfare",
         "species_type": "gbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "fb_gbear",
         "label": "First Breeding - Grizzly Bear",
         "type": "firsts",
         "species_type": "gbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "fa_gbear",
-        "label": "First Aquisition - Grizzly Bear",
+        "label": "First Acquisition - Grizzly Bear",
         "type": "firsts",
         "species_type": "gbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "cr_gbear",
         "label": "Conservation Release - Grizzly Bear",
         "type": "conservation",
         "species_type": "gbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare1_hbear",
         "label": "Research Welfare 1 - Himalayan Brown Bear",
         "type": "research welfare",
         "species_type": "hbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare2_hbear",
         "label": "Research Welfare 2 - Himalayan Brown Bear",
         "type": "research welfare",
         "species_type": "hbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare3_hbear",
         "label": "Research Welfare 3 - Himalayan Brown Bear",
         "type": "research welfare",
         "species_type": "hbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare4_hbear",
         "label": "Research Welfare 4 - Himalayan Brown Bear",
         "type": "research welfare",
         "species_type": "hbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare5_hbear",
         "label": "Research Welfare 5 - Himalayan Brown Bear",
         "type": "research welfare",
         "species_type": "hbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare6_hbear",
         "label": "Research Welfare 6 - Himalayan Brown Bear",
         "type": "research welfare",
         "species_type": "hbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "fb_hbear",
         "label": "First Breeding - Himalayan Brown Bear",
         "type": "firsts",
         "species_type": "hbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "fa_hbear",
-        "label": "First Aquisition - Himalayan Brown Bear",
+        "label": "First Acquisition - Himalayan Brown Bear",
         "type": "firsts",
         "species_type": "hbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "cr_hbear",
         "label": "Conservation Release - Himalayan Brown Bear",
         "type": "conservation",
         "species_type": "hbear",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare1_hippo",
         "label": "Research Welfare 1 - Hippopotamus",
         "type": "research welfare",
         "species_type": "hippo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare2_hippo",
         "label": "Research Welfare 2 - Hippopotamus",
         "type": "research welfare",
         "species_type": "hippo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare3_hippo",
         "label": "Research Welfare 3 - Hippopotamus",
         "type": "research welfare",
         "species_type": "hippo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare4_hippo",
         "label": "Research Welfare 4 - Hippopotamus",
         "type": "research welfare",
         "species_type": "hippo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare5_hippo",
         "label": "Research Welfare 5 - Hippopotamus",
         "type": "research welfare",
         "species_type": "hippo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare6_hippo",
         "label": "Research Welfare 6 - Hippopotamus",
         "type": "research welfare",
         "species_type": "hippo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "fb_hippo",
         "label": "First Breeding - Hippopotamus",
         "type": "firsts",
         "species_type": "hippo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "fa_hippo",
-        "label": "First Aquisition - Hippopotamus",
+        "label": "First Acquisition - Hippopotamus",
         "type": "firsts",
         "species_type": "hippo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "cr_hippo",
         "label": "Conservation Release - Hippopotamus",
         "type": "conservation",
         "species_type": "hippo",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare1_ielephant",
         "label": "Research Welfare 1 - Indian Elephant",
         "type": "research welfare",
         "species_type": "ielephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare2_ielephant",
         "label": "Research Welfare 2 - Indian Elephant",
         "type": "research welfare",
         "species_type": "ielephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare3_ielephant",
         "label": "Research Welfare 3 - Indian Elephant",
         "type": "research welfare",
         "species_type": "ielephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare4_ielephant",
         "label": "Research Welfare 4 - Indian Elephant",
         "type": "research welfare",
         "species_type": "ielephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare5_ielephant",
         "label": "Research Welfare 5 - Indian Elephant",
         "type": "research welfare",
         "species_type": "ielephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare6_ielephant",
         "label": "Research Welfare 6 - Indian Elephant",
         "type": "research welfare",
         "species_type": "ielephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "fb_ielephant",
         "label": "First Breeding - Indian Elephant",
         "type": "firsts",
         "species_type": "ielephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "fa_ielephant",
-        "label": "First Aquisition - Indian Elephant",
+        "label": "First Acquisition - Indian Elephant",
         "type": "firsts",
         "species_type": "ielephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "cr_ielephant",
         "label": "Conservation Release - Indian Elephant",
         "type": "conservation",
         "species_type": "ielephant",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare1_ipeafowl",
         "label": "Research Welfare 1 - Indian Peafowl",
         "type": "research welfare",
         "species_type": "ipeafowl",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare2_ipeafowl",
         "label": "Research Welfare 2 - Indian Peafowl",
         "type": "research welfare",
         "species_type": "ipeafowl",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare3_ipeafowl",
         "label": "Research Welfare 3 - Indian Peafowl",
         "type": "research welfare",
         "species_type": "ipeafowl",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare4_ipeafowl",
         "label": "Research Welfare 4 - Indian Peafowl",
         "type": "research welfare",
         "species_type": "ipeafowl",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare5_ipeafowl",
         "label": "Research Welfare 5 - Indian Peafowl",
         "type": "research welfare",
         "species_type": "ipeafowl",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare6_ipeafowl",
         "label": "Research Welfare 6 - Indian Peafowl",
         "type": "research welfare",
         "species_type": "ipeafowl",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "fb_ipeafowl",
         "label": "First Breeding - Indian Peafowl",
         "type": "firsts",
         "species_type": "ipeafowl",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "fa_ipeafowl",
-        "label": "First Aquisition - Indian Peafowl",
+        "label": "First Acquisition - Indian Peafowl",
         "type": "firsts",
         "species_type": "ipeafowl",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "cr_ipeafowl",
         "label": "Conservation Release - Indian Peafowl",
         "type": "conservation",
         "species_type": "ipeafowl",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare1_irhino",
         "label": "Research Welfare 1 - Indian Rhinoceros",
         "type": "research welfare",
         "species_type": "irhino",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare2_irhino",
         "label": "Research Welfare 2 - Indian Rhinoceros",
         "type": "research welfare",
         "species_type": "irhino",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare3_irhino",
         "label": "Research Welfare 3 - Indian Rhinoceros",
         "type": "research welfare",
         "species_type": "irhino",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare4_irhino",
         "label": "Research Welfare 4 - Indian Rhinoceros",
         "type": "research welfare",
         "species_type": "irhino",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare5_irhino",
         "label": "Research Welfare 5 - Indian Rhinoceros",
         "type": "research welfare",
         "species_type": "irhino",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare6_irhino",
         "label": "Research Welfare 6 - Indian Rhinoceros",
         "type": "research welfare",
         "species_type": "irhino",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "fb_irhino",
         "label": "First Breeding - Indian Rhinoceros",
         "type": "firsts",
         "species_type": "irhino",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "fa_irhino",
-        "label": "First Aquisition - Indian Rhinoceros",
+        "label": "First Acquisition - Indian Rhinoceros",
         "type": "firsts",
         "species_type": "irhino",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "cr_irhino",
         "label": "Conservation Release - Indian Rhinoceros",
         "type": "conservation",
         "species_type": "irhino",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 4
     },
     {
         "stringid": "welfare1_jmacaque",
         "label": "Research Welfare 1 - Japanese Macaque",
         "type": "research welfare",
         "species_type": "jmacaque",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare2_jmacaque",
         "label": "Research Welfare 2 - Japanese Macaque",
         "type": "research welfare",
         "species_type": "jmacaque",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare3_jmacaque",
         "label": "Research Welfare 3 - Japanese Macaque",
         "type": "research welfare",
         "species_type": "jmacaque",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare4_jmacaque",
         "label": "Research Welfare 4 - Japanese Macaque",
         "type": "research welfare",
         "species_type": "jmacaque",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare5_jmacaque",
         "label": "Research Welfare 5 - Japanese Macaque",
         "type": "research welfare",
         "species_type": "jmacaque",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare6_jmacaque",
         "label": "Research Welfare 6 - Japanese Macaque",
         "type": "research welfare",
         "species_type": "jmacaque",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "fb_jmacaque",
         "label": "First Breeding - Japanese Macaque",
         "type": "firsts",
         "species_type": "jmacaque",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "fa_jmacaque",
-        "label": "First Aquisition - Japanese Macaque",
+        "label": "First Acquisition - Japanese Macaque",
         "type": "firsts",
         "species_type": "jmacaque",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "cr_jmacaque",
         "label": "Conservation Release - Japanese Macaque",
         "type": "conservation",
         "species_type": "jmacaque",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare1_mandrill",
         "label": "Research Welfare 1 - Mandrill",
         "type": "research welfare",
         "species_type": "mandrill",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_mandrill",
         "label": "Research Welfare 2 - Mandrill",
         "type": "research welfare",
         "species_type": "mandrill",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_mandrill",
         "label": "Research Welfare 3 - Mandrill",
         "type": "research welfare",
         "species_type": "mandrill",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_mandrill",
         "label": "Research Welfare 4 - Mandrill",
         "type": "research welfare",
         "species_type": "mandrill",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_mandrill",
         "label": "Research Welfare 5 - Mandrill",
         "type": "research welfare",
         "species_type": "mandrill",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_mandrill",
         "label": "Research Welfare 6 - Mandrill",
         "type": "research welfare",
         "species_type": "mandrill",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_mandrill",
         "label": "First Breeding - Mandrill",
         "type": "firsts",
         "species_type": "mandrill",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_mandrill",
-        "label": "First Aquisition - Mandrill",
+        "label": "First Acquisition - Mandrill",
         "type": "firsts",
         "species_type": "mandrill",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_mandrill",
         "label": "Conservation Release - Mandrill",
         "type": "conservation",
         "species_type": "mandrill",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_nmonitor",
         "label": "Research Welfare 1 - Nile Monitor",
         "type": "research welfare",
         "species_type": "nmonitor",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_nmonitor",
         "label": "Research Welfare 2 - Nile Monitor",
         "type": "research welfare",
         "species_type": "nmonitor",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_nmonitor",
         "label": "Research Welfare 3 - Nile Monitor",
         "type": "research welfare",
         "species_type": "nmonitor",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_nmonitor",
         "label": "Research Welfare 4 - Nile Monitor",
         "type": "research welfare",
         "species_type": "nmonitor",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_nmonitor",
         "label": "Research Welfare 5 - Nile Monitor",
         "type": "research welfare",
         "species_type": "nmonitor",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_nmonitor",
         "label": "Research Welfare 6 - Nile Monitor",
         "type": "research welfare",
         "species_type": "nmonitor",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_nmonitor",
         "label": "First Breeding - Nile Monitor",
         "type": "firsts",
         "species_type": "nmonitor",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_nmonitor",
-        "label": "First Aquisition - Nile Monitor",
+        "label": "First Acquisition - Nile Monitor",
         "type": "firsts",
         "species_type": "nmonitor",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_nmonitor",
         "label": "Conservation Release - Nile Monitor",
         "type": "conservation",
         "species_type": "nmonitor",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_nyala",
         "label": "Research Welfare 1 - Nyala",
         "type": "research welfare",
         "species_type": "nyala",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_nyala",
         "label": "Research Welfare 2 - Nyala",
         "type": "research welfare",
         "species_type": "nyala",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_nyala",
         "label": "Research Welfare 3 - Nyala",
         "type": "research welfare",
         "species_type": "nyala",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_nyala",
         "label": "Research Welfare 4 - Nyala",
         "type": "research welfare",
         "species_type": "nyala",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_nyala",
         "label": "Research Welfare 5 - Nyala",
         "type": "research welfare",
         "species_type": "nyala",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_nyala",
         "label": "Research Welfare 6 - Nyala",
         "type": "research welfare",
         "species_type": "nyala",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_nyala",
         "label": "First Breeding - Nyala",
         "type": "firsts",
         "species_type": "nyala",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_nyala",
-        "label": "First Aquisition - Nyala",
+        "label": "First Acquisition - Nyala",
         "type": "firsts",
         "species_type": "nyala",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_nyala",
         "label": "Conservation Release - Nyala",
         "type": "conservation",
         "species_type": "nyala",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_okapi",
         "label": "Research Welfare 1 - Okapi",
         "type": "research welfare",
         "species_type": "okapi",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_okapi",
         "label": "Research Welfare 2 - Okapi",
         "type": "research welfare",
         "species_type": "okapi",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_okapi",
         "label": "Research Welfare 3 - Okapi",
         "type": "research welfare",
         "species_type": "okapi",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_okapi",
         "label": "Research Welfare 4 - Okapi",
         "type": "research welfare",
         "species_type": "okapi",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_okapi",
         "label": "Research Welfare 5 - Okapi",
         "type": "research welfare",
         "species_type": "okapi",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_okapi",
         "label": "Research Welfare 6 - Okapi",
         "type": "research welfare",
         "species_type": "okapi",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_okapi",
         "label": "First Breeding - Okapi",
         "type": "firsts",
         "species_type": "okapi",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_okapi",
-        "label": "First Aquisition - Okapi",
+        "label": "First Acquisition - Okapi",
         "type": "firsts",
         "species_type": "okapi",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_okapi",
         "label": "Conservation Release - Okapi",
         "type": "conservation",
         "species_type": "okapi",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_pzebra",
         "label": "Research Welfare 1 - Plains Zebra",
         "type": "research welfare",
         "species_type": "pzebra",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_pzebra",
         "label": "Research Welfare 2 - Plains Zebra",
         "type": "research welfare",
         "species_type": "pzebra",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_pzebra",
         "label": "Research Welfare 3 - Plains Zebra",
         "type": "research welfare",
         "species_type": "pzebra",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_pzebra",
         "label": "Research Welfare 4 - Plains Zebra",
         "type": "research welfare",
         "species_type": "pzebra",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_pzebra",
         "label": "Research Welfare 5 - Plains Zebra",
         "type": "research welfare",
         "species_type": "pzebra",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_pzebra",
         "label": "Research Welfare 6 - Plains Zebra",
         "type": "research welfare",
         "species_type": "pzebra",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_pzebra",
         "label": "First Breeding - Plains Zebra",
         "type": "firsts",
         "species_type": "pzebra",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_pzebra",
-        "label": "First Aquisition - Plains Zebra",
+        "label": "First Acquisition - Plains Zebra",
         "type": "firsts",
         "species_type": "pzebra",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_pzebra",
         "label": "Conservation Release - Plains Zebra",
         "type": "conservation",
         "species_type": "pzebra",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_pantelope",
         "label": "Research Welfare 1 - Pronghorn Antelope",
         "type": "research welfare",
         "species_type": "pantelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_pantelope",
         "label": "Research Welfare 2 - Pronghorn Antelope",
         "type": "research welfare",
         "species_type": "pantelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_pantelope",
         "label": "Research Welfare 3 - Pronghorn Antelope",
         "type": "research welfare",
         "species_type": "pantelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_pantelope",
         "label": "Research Welfare 4 - Pronghorn Antelope",
         "type": "research welfare",
         "species_type": "pantelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_pantelope",
         "label": "Research Welfare 5 - Pronghorn Antelope",
         "type": "research welfare",
         "species_type": "pantelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_pantelope",
         "label": "Research Welfare 6 - Pronghorn Antelope",
         "type": "research welfare",
         "species_type": "pantelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_pantelope",
         "label": "First Breeding - Pronghorn Antelope",
         "type": "firsts",
         "species_type": "pantelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_pantelope",
-        "label": "First Aquisition - Pronghorn Antelope",
+        "label": "First Acquisition - Pronghorn Antelope",
         "type": "firsts",
         "species_type": "pantelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_pantelope",
         "label": "Conservation Release - Pronghorn Antelope",
         "type": "conservation",
         "species_type": "pantelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_rdeer",
         "label": "Research Welfare 1 - Red Deer",
         "type": "research welfare",
         "species_type": "rdeer",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_rdeer",
         "label": "Research Welfare 2 - Red Deer",
         "type": "research welfare",
         "species_type": "rdeer",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_rdeer",
         "label": "Research Welfare 3 - Red Deer",
         "type": "research welfare",
         "species_type": "rdeer",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_rdeer",
         "label": "Research Welfare 4 - Red Deer",
         "type": "research welfare",
         "species_type": "rdeer",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_rdeer",
         "label": "Research Welfare 5 - Red Deer",
         "type": "research welfare",
         "species_type": "rdeer",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_rdeer",
         "label": "Research Welfare 6 - Red Deer",
         "type": "research welfare",
         "species_type": "rdeer",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_rdeer",
         "label": "First Breeding - Red Deer",
         "type": "firsts",
         "species_type": "rdeer",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_rdeer",
-        "label": "First Aquisition - Red Deer",
+        "label": "First Acquisition - Red Deer",
         "type": "firsts",
         "species_type": "rdeer",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_rdeer",
         "label": "Conservation Release - Red Deer",
         "type": "conservation",
         "species_type": "rdeer",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_rpanda",
         "label": "Research Welfare 1 - Red Panda",
         "type": "research welfare",
         "species_type": "rpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_rpanda",
         "label": "Research Welfare 2 - Red Panda",
         "type": "research welfare",
         "species_type": "rpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_rpanda",
         "label": "Research Welfare 3 - Red Panda",
         "type": "research welfare",
         "species_type": "rpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_rpanda",
         "label": "Research Welfare 4 - Red Panda",
         "type": "research welfare",
         "species_type": "rpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_rpanda",
         "label": "Research Welfare 5 - Red Panda",
         "type": "research welfare",
         "species_type": "rpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_rpanda",
         "label": "Research Welfare 6 - Red Panda",
         "type": "research welfare",
         "species_type": "rpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_rpanda",
         "label": "First Breeding - Red Panda",
         "type": "firsts",
         "species_type": "rpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_rpanda",
-        "label": "First Aquisition - Red Panda",
+        "label": "First Acquisition - Red Panda",
         "type": "firsts",
         "species_type": "rpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_rpanda",
         "label": "Conservation Release - Red Panda",
         "type": "conservation",
         "species_type": "rpanda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_relemur",
         "label": "Research Welfare 1 - Red Ruffed Lemur",
         "type": "research welfare",
         "species_type": "relemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare2_relemur",
         "label": "Research Welfare 2 - Red Ruffed Lemur",
         "type": "research welfare",
         "species_type": "relemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare3_relemur",
         "label": "Research Welfare 3 - Red Ruffed Lemur",
         "type": "research welfare",
         "species_type": "relemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare4_relemur",
         "label": "Research Welfare 4 - Red Ruffed Lemur",
         "type": "research welfare",
         "species_type": "relemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare5_relemur",
         "label": "Research Welfare 5 - Red Ruffed Lemur",
         "type": "research welfare",
         "species_type": "relemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare6_relemur",
         "label": "Research Welfare 6 - Red Ruffed Lemur",
         "type": "research welfare",
         "species_type": "relemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "fb_relemur",
         "label": "First Breeding - Red Ruffed Lemur",
         "type": "firsts",
         "species_type": "relemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "fa_relemur",
-        "label": "First Aquisition - Red Ruffed Lemur",
+        "label": "First Acquisition - Red Ruffed Lemur",
         "type": "firsts",
         "species_type": "relemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "cr_relemur",
         "label": "Conservation Release - Red Ruffed Lemur",
         "type": "conservation",
         "species_type": "relemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare1_rgiraffe",
         "label": "Research Welfare 1 - Reticulated Giraffe",
         "type": "research welfare",
         "species_type": "rgiraffe",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare2_rgiraffe",
         "label": "Research Welfare 2 - Reticulated Giraffe",
         "type": "research welfare",
         "species_type": "rgiraffe",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare3_rgiraffe",
         "label": "Research Welfare 3 - Reticulated Giraffe",
         "type": "research welfare",
         "species_type": "rgiraffe",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare4_rgiraffe",
         "label": "Research Welfare 4 - Reticulated Giraffe",
         "type": "research welfare",
         "species_type": "rgiraffe",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare5_rgiraffe",
         "label": "Research Welfare 5 - Reticulated Giraffe",
         "type": "research welfare",
         "species_type": "rgiraffe",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare6_rgiraffe",
         "label": "Research Welfare 6 - Reticulated Giraffe",
         "type": "research welfare",
         "species_type": "rgiraffe",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fb_rgiraffe",
         "label": "First Breeding - Reticulated Giraffe",
         "type": "firsts",
         "species_type": "rgiraffe",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fa_rgiraffe",
-        "label": "First Aquisition - Reticulated Giraffe",
+        "label": "First Acquisition - Reticulated Giraffe",
         "type": "firsts",
         "species_type": "rgiraffe",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "cr_rgiraffe",
         "label": "Conservation Release - Reticulated Giraffe",
         "type": "conservation",
         "species_type": "rgiraffe",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare1_rilemur",
         "label": "Research Welfare 1 - Ring Tailed Lemur",
         "type": "research welfare",
         "species_type": "rilemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare2_rilemur",
         "label": "Research Welfare 2 - Ring Tailed Lemur",
         "type": "research welfare",
         "species_type": "rilemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare3_rilemur",
         "label": "Research Welfare 3 - Ring Tailed Lemur",
         "type": "research welfare",
         "species_type": "rilemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare4_rilemur",
         "label": "Research Welfare 4 - Ring Tailed Lemur",
         "type": "research welfare",
         "species_type": "rilemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare5_rilemur",
         "label": "Research Welfare 5 - Ring Tailed Lemur",
         "type": "research welfare",
         "species_type": "rilemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare6_rilemur",
         "label": "Research Welfare 6 - Ring Tailed Lemur",
         "type": "research welfare",
         "species_type": "rilemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "fb_rilemur",
         "label": "First Breeding - Ring Tailed Lemur",
         "type": "firsts",
         "species_type": "rilemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "fa_rilemur",
-        "label": "First Aquisition - Ring Tailed Lemur",
+        "label": "First Acquisition - Ring Tailed Lemur",
         "type": "firsts",
         "species_type": "rilemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "cr_rilemur",
         "label": "Conservation Release - Ring Tailed Lemur",
         "type": "conservation",
         "species_type": "rilemur",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 1
     },
     {
         "stringid": "welfare1_santelope",
         "label": "Research Welfare 1 - Sable Antelope",
         "type": "research welfare",
         "species_type": "santelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_santelope",
         "label": "Research Welfare 2 - Sable Antelope",
         "type": "research welfare",
         "species_type": "santelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_santelope",
         "label": "Research Welfare 3 - Sable Antelope",
         "type": "research welfare",
         "species_type": "santelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_santelope",
         "label": "Research Welfare 4 - Sable Antelope",
         "type": "research welfare",
         "species_type": "santelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_santelope",
         "label": "Research Welfare 5 - Sable Antelope",
         "type": "research welfare",
         "species_type": "santelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_santelope",
         "label": "Research Welfare 6 - Sable Antelope",
         "type": "research welfare",
         "species_type": "santelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_santelope",
         "label": "First Breeding - Sable Antelope",
         "type": "firsts",
         "species_type": "santelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_santelope",
-        "label": "First Aquisition - Sable Antelope",
+        "label": "First Acquisition - Sable Antelope",
         "type": "firsts",
         "species_type": "santelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_santelope",
         "label": "Conservation Release - Sable Antelope",
         "type": "conservation",
         "species_type": "santelope",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_scroc",
         "label": "Research Welfare 1 - Saltwater Crocodile",
         "type": "research welfare",
         "species_type": "scroc",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_scroc",
         "label": "Research Welfare 2 - Saltwater Crocodile",
         "type": "research welfare",
         "species_type": "scroc",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_scroc",
         "label": "Research Welfare 3 - Saltwater Crocodile",
         "type": "research welfare",
         "species_type": "scroc",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_scroc",
         "label": "Research Welfare 4 - Saltwater Crocodile",
         "type": "research welfare",
         "species_type": "scroc",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_scroc",
         "label": "Research Welfare 5 - Saltwater Crocodile",
         "type": "research welfare",
         "species_type": "scroc",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_scroc",
         "label": "Research Welfare 6 - Saltwater Crocodile",
         "type": "research welfare",
         "species_type": "scroc",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_scroc",
         "label": "First Breeding - Saltwater Crocodile",
         "type": "firsts",
         "species_type": "scroc",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_scroc",
-        "label": "First Aquisition - Saltwater Crocodile",
+        "label": "First Acquisition - Saltwater Crocodile",
         "type": "firsts",
         "species_type": "scroc",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_scroc",
         "label": "Conservation Release - Saltwater Crocodile",
         "type": "conservation",
         "species_type": "scroc",
-        "water_needed": true
+        "water_needed": true,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_stiger",
         "label": "Research Welfare 1 - Siberian Tiger",
         "type": "research welfare",
         "species_type": "stiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare2_stiger",
         "label": "Research Welfare 2 - Siberian Tiger",
         "type": "research welfare",
         "species_type": "stiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare3_stiger",
         "label": "Research Welfare 3 - Siberian Tiger",
         "type": "research welfare",
         "species_type": "stiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare4_stiger",
         "label": "Research Welfare 4 - Siberian Tiger",
         "type": "research welfare",
         "species_type": "stiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare5_stiger",
         "label": "Research Welfare 5 - Siberian Tiger",
         "type": "research welfare",
         "species_type": "stiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare6_stiger",
         "label": "Research Welfare 6 - Siberian Tiger",
         "type": "research welfare",
         "species_type": "stiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fb_stiger",
         "label": "First Breeding - Siberian Tiger",
         "type": "firsts",
         "species_type": "stiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fa_stiger",
-        "label": "First Aquisition - Siberian Tiger",
+        "label": "First Acquisition - Siberian Tiger",
         "type": "firsts",
         "species_type": "stiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "cr_stiger",
         "label": "Conservation Release - Siberian Tiger",
         "type": "conservation",
         "species_type": "stiger",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare1_sleopard",
         "label": "Research Welfare 1 - Snow Leopard",
         "type": "research welfare",
         "species_type": "sleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_sleopard",
         "label": "Research Welfare 2 - Snow Leopard",
         "type": "research welfare",
         "species_type": "sleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_sleopard",
         "label": "Research Welfare 3 - Snow Leopard",
         "type": "research welfare",
         "species_type": "sleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_sleopard",
         "label": "Research Welfare 4 - Snow Leopard",
         "type": "research welfare",
         "species_type": "sleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_sleopard",
         "label": "Research Welfare 5 - Snow Leopard",
         "type": "research welfare",
         "species_type": "sleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_sleopard",
         "label": "Research Welfare 6 - Snow Leopard",
         "type": "research welfare",
         "species_type": "sleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_sleopard",
         "label": "First Breeding - Snow Leopard",
         "type": "firsts",
         "species_type": "sleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_sleopard",
-        "label": "First Aquisition - Snow Leopard",
+        "label": "First Acquisition - Snow Leopard",
         "type": "firsts",
         "species_type": "sleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_sleopard",
         "label": "Conservation Release - Snow Leopard",
         "type": "conservation",
         "species_type": "sleopard",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_shyena",
         "label": "Research Welfare 1 - Spotted Hyena",
         "type": "research welfare",
         "species_type": "shyena",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_shyena",
         "label": "Research Welfare 2 - Spotted Hyena",
         "type": "research welfare",
         "species_type": "shyena",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_shyena",
         "label": "Research Welfare 3 - Spotted Hyena",
         "type": "research welfare",
         "species_type": "shyena",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_shyena",
         "label": "Research Welfare 4 - Spotted Hyena",
         "type": "research welfare",
         "species_type": "shyena",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_shyena",
         "label": "Research Welfare 5 - Spotted Hyena",
         "type": "research welfare",
         "species_type": "shyena",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_shyena",
         "label": "Research Welfare 6 - Spotted Hyena",
         "type": "research welfare",
         "species_type": "shyena",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_shyena",
         "label": "First Breeding - Spotted Hyena",
         "type": "firsts",
         "species_type": "shyena",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_shyena",
-        "label": "First Aquisition - Spotted Hyena",
+        "label": "First Acquisition - Spotted Hyena",
         "type": "firsts",
         "species_type": "shyena",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_shyena",
         "label": "Conservation Release - Spotted Hyena",
         "type": "conservation",
         "species_type": "shyena",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_springbok",
         "label": "Research Welfare 1 - Springbok",
         "type": "research welfare",
         "species_type": "springbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_springbok",
         "label": "Research Welfare 2 - Springbok",
         "type": "research welfare",
         "species_type": "springbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_springbok",
         "label": "Research Welfare 3 - Springbok",
         "type": "research welfare",
         "species_type": "springbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_springbok",
         "label": "Research Welfare 4 - Springbok",
         "type": "research welfare",
         "species_type": "springbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_springbok",
         "label": "Research Welfare 5 - Springbok",
         "type": "research welfare",
         "species_type": "springbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_springbok",
         "label": "Research Welfare 6 - Springbok",
         "type": "research welfare",
         "species_type": "springbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_springbok",
         "label": "First Breeding - Springbok",
         "type": "firsts",
         "species_type": "springbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_springbok",
-        "label": "First Aquisition - Springbok",
+        "label": "First Acquisition - Springbok",
         "type": "firsts",
         "species_type": "springbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_springbok",
         "label": "Conservation Release - Springbok",
         "type": "conservation",
         "species_type": "springbok",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_twolf",
         "label": "Research Welfare 1 - Timber Wolf",
         "type": "research welfare",
         "species_type": "twolf",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_twolf",
         "label": "Research Welfare 2 - Timber Wolf",
         "type": "research welfare",
         "species_type": "twolf",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_twolf",
         "label": "Research Welfare 3 - Timber Wolf",
         "type": "research welfare",
         "species_type": "twolf",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_twolf",
         "label": "Research Welfare 4 - Timber Wolf",
         "type": "research welfare",
         "species_type": "twolf",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_twolf",
         "label": "Research Welfare 5 - Timber Wolf",
         "type": "research welfare",
         "species_type": "twolf",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_twolf",
         "label": "Research Welfare 6 - Timber Wolf",
         "type": "research welfare",
         "species_type": "twolf",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fb_twolf",
         "label": "First Breeding - Timber Wolf",
         "type": "firsts",
         "species_type": "twolf",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "fa_twolf",
-        "label": "First Aquisition - Timber Wolf",
+        "label": "First Acquisition - Timber Wolf",
         "type": "firsts",
         "species_type": "twolf",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "cr_twolf",
         "label": "Conservation Release - Timber Wolf",
         "type": "conservation",
         "species_type": "twolf",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_wlion",
         "label": "Research Welfare 1 - West African Lion",
         "type": "research welfare",
         "species_type": "wlion",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare2_wlion",
         "label": "Research Welfare 2 - West African Lion",
         "type": "research welfare",
         "species_type": "wlion",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare3_wlion",
         "label": "Research Welfare 3 - West African Lion",
         "type": "research welfare",
         "species_type": "wlion",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare4_wlion",
         "label": "Research Welfare 4 - West African Lion",
         "type": "research welfare",
         "species_type": "wlion",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare5_wlion",
         "label": "Research Welfare 5 - West African Lion",
         "type": "research welfare",
         "species_type": "wlion",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare6_wlion",
         "label": "Research Welfare 6 - West African Lion",
         "type": "research welfare",
         "species_type": "wlion",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fb_wlion",
         "label": "First Breeding - West African Lion",
         "type": "firsts",
         "species_type": "wlion",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fa_wlion",
-        "label": "First Aquisition - West African Lion",
+        "label": "First Acquisition - West African Lion",
         "type": "firsts",
         "species_type": "wlion",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "cr_wlion",
         "label": "Conservation Release - West African Lion",
         "type": "conservation",
         "species_type": "wlion",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare1_wchimp",
         "label": "Research Welfare 1 - Western Chimpanzee",
         "type": "research welfare",
         "species_type": "wchimp",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare2_wchimp",
         "label": "Research Welfare 2 - Western Chimpanzee",
         "type": "research welfare",
         "species_type": "wchimp",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare3_wchimp",
         "label": "Research Welfare 3 - Western Chimpanzee",
         "type": "research welfare",
         "species_type": "wchimp",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare4_wchimp",
         "label": "Research Welfare 4 - Western Chimpanzee",
         "type": "research welfare",
         "species_type": "wchimp",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare5_wchimp",
         "label": "Research Welfare 5 - Western Chimpanzee",
         "type": "research welfare",
         "species_type": "wchimp",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare6_wchimp",
         "label": "Research Welfare 6 - Western Chimpanzee",
         "type": "research welfare",
         "species_type": "wchimp",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fb_wchimp",
         "label": "First Breeding - Western Chimpanzee",
         "type": "firsts",
         "species_type": "wchimp",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fa_wchimp",
-        "label": "First Aquisition - Western Chimpanzee",
+        "label": "First Acquisition - Western Chimpanzee",
         "type": "firsts",
         "species_type": "wchimp",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "cr_wchimp",
         "label": "Conservation Release - Western Chimpanzee",
         "type": "conservation",
         "species_type": "wchimp",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare1_wgorilla",
         "label": "Research Welfare 1 - Western Lowland Gorilla",
         "type": "research welfare",
         "species_type": "wgorilla",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare2_wgorilla",
         "label": "Research Welfare 2 - Western Lowland Gorilla",
         "type": "research welfare",
         "species_type": "wgorilla",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare3_wgorilla",
         "label": "Research Welfare 3 - Western Lowland Gorilla",
         "type": "research welfare",
         "species_type": "wgorilla",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare4_wgorilla",
         "label": "Research Welfare 4 - Western Lowland Gorilla",
         "type": "research welfare",
         "species_type": "wgorilla",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare5_wgorilla",
         "label": "Research Welfare 5 - Western Lowland Gorilla",
         "type": "research welfare",
         "species_type": "wgorilla",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "welfare6_wgorilla",
         "label": "Research Welfare 6 - Western Lowland Gorilla",
         "type": "research welfare",
         "species_type": "wgorilla",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fb_wgorilla",
         "label": "First Breeding - Western Lowland Gorilla",
         "type": "firsts",
         "species_type": "wgorilla",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "fa_wgorilla",
-        "label": "First Aquisition - Western Lowland Gorilla",
+        "label": "First Acquisition - Western Lowland Gorilla",
         "type": "firsts",
         "species_type": "wgorilla",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "cr_wgorilla",
         "label": "Conservation Release - Western Lowland Gorilla",
         "type": "conservation",
         "species_type": "wgorilla",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 3
     },
     {
         "stringid": "e_welfare1_acentipede",
         "label": "Research Welfare 1 - Amazonian Giant Centipede",
         "type": "research welfare",
         "species_type": "acentipede",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_acentipede",
         "label": "Research Welfare 2 - Amazonian Giant Centipede",
         "type": "research welfare",
         "species_type": "acentipede",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_acentipede",
         "label": "Research Welfare 3 - Amazonian Giant Centipede",
         "type": "research welfare",
         "species_type": "acentipede",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_acentipede",
         "label": "First Breeding - Amazonian Giant Centipede",
         "type": "firsts",
         "species_type": "acentipede",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_acentipede",
-        "label": "First Aquisition - Amazonian Giant Centipede",
+        "label": "First Acquisition - Amazonian Giant Centipede",
         "type": "firsts",
         "species_type": "acentipede",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_acentipede",
         "label": "Conservation Release - Amazonian Giant Centipede",
         "type": "conservation",
         "species_type": "acentipede",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_bconstrictor",
         "label": "Research Welfare 1 - Boa Constrictor",
         "type": "research welfare",
         "species_type": "bconstrictor",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_bconstrictor",
         "label": "Research Welfare 2 - Boa Constrictor",
         "type": "research welfare",
         "species_type": "bconstrictor",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_bconstrictor",
         "label": "Research Welfare 3 - Boa Constrictor",
         "type": "research welfare",
         "species_type": "bconstrictor",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_bconstrictor",
         "label": "First Breeding - Boa Constrictor",
         "type": "firsts",
         "species_type": "bconstrictor",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_bconstrictor",
-        "label": "First Aquisition - Boa Constrictor",
+        "label": "First Acquisition - Boa Constrictor",
         "type": "firsts",
         "species_type": "bconstrictor",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_bconstrictor",
         "label": "Conservation Release - Boa Constrictor",
         "type": "conservation",
         "species_type": "bconstrictor",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_btarantula",
         "label": "Research Welfare 1 - Brazilian Salmon Pink Tarantula",
         "type": "research welfare",
         "species_type": "btarantula",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_btarantula",
         "label": "Research Welfare 2 - Brazilian Salmon Pink Tarantula",
         "type": "research welfare",
         "species_type": "btarantula",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_btarantula",
         "label": "Research Welfare 3 - Brazilian Salmon Pink Tarantula",
         "type": "research welfare",
         "species_type": "btarantula",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_btarantula",
         "label": "First Breeding - Brazilian Salmon Pink Tarantula",
         "type": "firsts",
         "species_type": "btarantula",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_btarantula",
-        "label": "First Aquisition - Brazilian Salmon Pink Tarantula",
+        "label": "First Acquisition - Brazilian Salmon Pink Tarantula",
         "type": "firsts",
         "species_type": "btarantula",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_btarantula",
         "label": "Conservation Release - Brazilian Salmon Pink Tarantula",
         "type": "conservation",
         "species_type": "btarantula",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_bspider",
         "label": "Research Welfare 1 - Brazilian Wandering Spider",
         "type": "research welfare",
         "species_type": "bspider",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_bspider",
         "label": "Research Welfare 2 - Brazilian Wandering Spider",
         "type": "research welfare",
         "species_type": "bspider",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_bspider",
         "label": "Research Welfare 3 - Brazilian Wandering Spider",
         "type": "research welfare",
         "species_type": "bspider",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_bspider",
         "label": "First Breeding - Brazilian Wandering Spider",
         "type": "firsts",
         "species_type": "bspider",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_bspider",
-        "label": "First Aquisition - Brazilian Wandering Spider",
+        "label": "First Acquisition - Brazilian Wandering Spider",
         "type": "firsts",
         "species_type": "bspider",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_bspider",
         "label": "Conservation Release - Brazilian Wandering Spider",
         "type": "conservation",
         "species_type": "bspider",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_cadder",
         "label": "Research Welfare 1 - Common Death Adder",
         "type": "research welfare",
         "species_type": "cadder",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_cadder",
         "label": "Research Welfare 2 - Common Death Adder",
         "type": "research welfare",
         "species_type": "cadder",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_cadder",
         "label": "Research Welfare 3 - Common Death Adder",
         "type": "research welfare",
         "species_type": "cadder",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_cadder",
         "label": "First Breeding - Common Death Adder",
         "type": "firsts",
         "species_type": "cadder",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_cadder",
-        "label": "First Aquisition - Common Death Adder",
+        "label": "First Acquisition - Common Death Adder",
         "type": "firsts",
         "species_type": "cadder",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_cadder",
         "label": "Conservation Release - Common Death Adder",
         "type": "conservation",
         "species_type": "cadder",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_esnake",
         "label": "Research Welfare 1 - Eastern Brown Snake",
         "type": "research welfare",
         "species_type": "esnake",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_esnake",
         "label": "Research Welfare 2 - Eastern Brown Snake",
         "type": "research welfare",
         "species_type": "esnake",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_esnake",
         "label": "Research Welfare 3 - Eastern Brown Snake",
         "type": "research welfare",
         "species_type": "esnake",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_esnake",
         "label": "First Breeding - Eastern Brown Snake",
         "type": "firsts",
         "species_type": "esnake",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_esnake",
-        "label": "First Aquisition - Eastern Brown Snake",
+        "label": "First Acquisition - Eastern Brown Snake",
         "type": "firsts",
         "species_type": "esnake",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_esnake",
         "label": "Conservation Release - Eastern Brown Snake",
         "type": "conservation",
         "species_type": "esnake",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_groach",
         "label": "Research Welfare 1 - Giant Burrowing Cockroach",
         "type": "research welfare",
         "species_type": "groach",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_groach",
         "label": "Research Welfare 2 - Giant Burrowing Cockroach",
         "type": "research welfare",
         "species_type": "groach",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_groach",
         "label": "Research Welfare 3 - Giant Burrowing Cockroach",
         "type": "research welfare",
         "species_type": "groach",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_groach",
         "label": "First Breeding - Giant Burrowing Cockroach",
         "type": "firsts",
         "species_type": "groach",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_groach",
-        "label": "First Aquisition - Giant Burrowing Cockroach",
+        "label": "First Acquisition - Giant Burrowing Cockroach",
         "type": "firsts",
         "species_type": "groach",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_groach",
         "label": "Conservation Release - Giant Burrowing Cockroach",
         "type": "conservation",
         "species_type": "groach",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_gdscorpian",
         "label": "Research Welfare 1 - Giant Desert Hairy Scorpion",
         "type": "research welfare",
         "species_type": "gdscorpian",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_gdscorpian",
         "label": "Research Welfare 2 - Giant Desert Hairy Scorpion",
         "type": "research welfare",
         "species_type": "gdscorpian",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_gdscorpian",
         "label": "Research Welfare 3 - Giant Desert Hairy Scorpion",
         "type": "research welfare",
         "species_type": "gdscorpian",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_gdscorpian",
         "label": "First Breeding - Giant Desert Hairy Scorpion",
         "type": "firsts",
         "species_type": "gdscorpian",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_gdscorpian",
-        "label": "First Aquisition - Giant Desert Hairy Scorpion",
+        "label": "First Acquisition - Giant Desert Hairy Scorpion",
         "type": "firsts",
         "species_type": "gdscorpian",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_gdscorpian",
         "label": "Conservation Release - Giant Desert Hairy Scorpion",
         "type": "conservation",
         "species_type": "gdscorpian",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_gfscorpion",
         "label": "Research Welfare 1 - Giant Forest Scorpion",
         "type": "research welfare",
         "species_type": "gfscorpion",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_gfscorpion",
         "label": "Research Welfare 2 - Giant Forest Scorpion",
         "type": "research welfare",
         "species_type": "gfscorpion",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_gfscorpion",
         "label": "Research Welfare 3 - Giant Forest Scorpion",
         "type": "research welfare",
         "species_type": "gfscorpion",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_gfscorpion",
         "label": "First Breeding - Giant Forest Scorpion",
         "type": "firsts",
         "species_type": "gfscorpion",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_gfscorpion",
-        "label": "First Aquisition - Giant Forest Scorpion",
+        "label": "First Acquisition - Giant Forest Scorpion",
         "type": "firsts",
         "species_type": "gfscorpion",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_gfscorpion",
         "label": "Conservation Release - Giant Forest Scorpion",
         "type": "conservation",
         "species_type": "gfscorpion",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_gsnail",
         "label": "Research Welfare 1 - Giant Tiger Land Snail",
         "type": "research welfare",
         "species_type": "gsnail",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_gsnail",
         "label": "Research Welfare 2 - Giant Tiger Land Snail",
         "type": "research welfare",
         "species_type": "gsnail",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_gsnail",
         "label": "Research Welfare 3 - Giant Tiger Land Snail",
         "type": "research welfare",
         "species_type": "gsnail",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_gsnail",
         "label": "First Breeding - Giant Tiger Land Snail",
         "type": "firsts",
         "species_type": "gsnail",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_gsnail",
-        "label": "First Aquisition - Giant Tiger Land Snail",
+        "label": "First Acquisition - Giant Tiger Land Snail",
         "type": "firsts",
         "species_type": "gsnail",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_gsnail",
         "label": "Conservation Release - Giant Tiger Land Snail",
         "type": "conservation",
         "species_type": "gsnail",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_gmonster",
         "label": "Research Welfare 1 - Gila Monster",
         "type": "research welfare",
         "species_type": "gmonster",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_gmonster",
         "label": "Research Welfare 2 - Gila Monster",
         "type": "research welfare",
         "species_type": "gmonster",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_gmonster",
         "label": "Research Welfare 3 - Gila Monster",
         "type": "research welfare",
         "species_type": "gmonster",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_gmonster",
         "label": "First Breeding - Gila Monster",
         "type": "firsts",
         "species_type": "gmonster",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_gmonster",
-        "label": "First Aquisition - Gila Monster",
+        "label": "First Acquisition - Gila Monster",
         "type": "firsts",
         "species_type": "gmonster",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_gmonster",
         "label": "Conservation Release - Gila Monster",
         "type": "conservation",
         "species_type": "gmonster",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_gpfrog",
         "label": "Research Welfare 1 - Golden Poison Frog",
         "type": "research welfare",
         "species_type": "gpfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_gpfrog",
         "label": "Research Welfare 2 - Golden Poison Frog",
         "type": "research welfare",
         "species_type": "gpfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_gpfrog",
         "label": "Research Welfare 3 - Golden Poison Frog",
         "type": "research welfare",
         "species_type": "gpfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_gpfrog",
         "label": "First Breeding - Golden Poison Frog",
         "type": "firsts",
         "species_type": "gpfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_gpfrog",
-        "label": "First Aquisition - Golden Poison Frog",
+        "label": "First Acquisition - Golden Poison Frog",
         "type": "firsts",
         "species_type": "gpfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_gpfrog",
         "label": "Conservation Release - Golden Poison Frog",
         "type": "conservation",
         "species_type": "gpfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_gbeetle",
         "label": "Research Welfare 1 - Goliath Beetle",
         "type": "research welfare",
         "species_type": "gbeetle",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_gbeetle",
         "label": "Research Welfare 2 - Goliath Beetle",
         "type": "research welfare",
         "species_type": "gbeetle",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_gbeetle",
         "label": "Research Welfare 3 - Goliath Beetle",
         "type": "research welfare",
         "species_type": "gbeetle",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_gbeetle",
         "label": "First Breeding - Goliath Beetle",
         "type": "firsts",
         "species_type": "gbeetle",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_gbeetle",
-        "label": "First Aquisition - Goliath Beetle",
+        "label": "First Acquisition - Goliath Beetle",
         "type": "firsts",
         "species_type": "gbeetle",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_gbeetle",
         "label": "Conservation Release - Goliath Beetle",
         "type": "conservation",
         "species_type": "gbeetle",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_gbirdeater",
         "label": "Research Welfare 1 - Goliath Birdeater",
         "type": "research welfare",
         "species_type": "gbirdeater",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_gbirdeater",
         "label": "Research Welfare 2 - Goliath Birdeater",
         "type": "research welfare",
         "species_type": "gbirdeater",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_gbirdeater",
         "label": "Research Welfare 3 - Goliath Birdeater",
         "type": "research welfare",
         "species_type": "gbirdeater",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_gbirdeater",
         "label": "First Breeding - Goliath Birdeater",
         "type": "firsts",
         "species_type": "gbirdeater",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_gbirdeater",
-        "label": "First Aquisition - Goliath Birdeater",
+        "label": "First Acquisition - Goliath Birdeater",
         "type": "firsts",
         "species_type": "gbirdeater",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_gbirdeater",
         "label": "Conservation Release - Goliath Birdeater",
         "type": "conservation",
         "species_type": "gbirdeater",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_gfrog",
         "label": "Research Welfare 1 - Goliath Frog",
         "type": "research welfare",
         "species_type": "gfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_gfrog",
         "label": "Research Welfare 2 - Goliath Frog",
         "type": "research welfare",
         "species_type": "gfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_gfrog",
         "label": "Research Welfare 3 - Goliath Frog",
         "type": "research welfare",
         "species_type": "gfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_gfrog",
         "label": "First Breeding - Goliath Frog",
         "type": "firsts",
         "species_type": "gfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_gfrog",
-        "label": "First Aquisition - Goliath Frog",
+        "label": "First Acquisition - Goliath Frog",
         "type": "firsts",
         "species_type": "gfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_gfrog",
         "label": "Conservation Release - Goliath Frog",
         "type": "conservation",
         "species_type": "gfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_giguana",
         "label": "Research Welfare 1 - Green Iguana",
         "type": "research welfare",
         "species_type": "giguana",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_giguana",
         "label": "Research Welfare 2 - Green Iguana",
         "type": "research welfare",
         "species_type": "giguana",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_giguana",
         "label": "Research Welfare 3 - Green Iguana",
         "type": "research welfare",
         "species_type": "giguana",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_giguana",
         "label": "First Breeding - Green Iguana",
         "type": "firsts",
         "species_type": "giguana",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_giguana",
-        "label": "First Aquisition - Green Iguana",
+        "label": "First Acquisition - Green Iguana",
         "type": "firsts",
         "species_type": "giguana",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_giguana",
         "label": "Conservation Release - Green Iguana",
         "type": "conservation",
         "species_type": "giguana",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_lfrog",
         "label": "Research Welfare 1 - Lehmann Poison Frog",
         "type": "research welfare",
         "species_type": "lfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_lfrog",
         "label": "Research Welfare 2 - Lehmann Poison Frog",
         "type": "research welfare",
         "species_type": "lfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_lfrog",
         "label": "Research Welfare 3 - Lehmann Poison Frog",
         "type": "research welfare",
         "species_type": "lfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_lfrog",
         "label": "First Breeding - Lehmann Poison Frog",
         "type": "firsts",
         "species_type": "lfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_lfrog",
-        "label": "First Aquisition - Lehmann Poison Frog",
+        "label": "First Acquisition - Lehmann Poison Frog",
         "type": "firsts",
         "species_type": "lfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_lfrog",
         "label": "Conservation Release - Lehmann Poison Frog",
         "type": "conservation",
         "species_type": "lfrog",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_liguana",
         "label": "Research Welfare 1 - Lesser Antillean Iguana",
         "type": "research welfare",
         "species_type": "liguana",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_liguana",
         "label": "Research Welfare 2 - Lesser Antillean Iguana",
         "type": "research welfare",
         "species_type": "liguana",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_liguana",
         "label": "Research Welfare 3 - Lesser Antillean Iguana",
         "type": "research welfare",
         "species_type": "liguana",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_liguana",
         "label": "First Breeding - Lesser Antillean Iguana",
         "type": "firsts",
         "species_type": "liguana",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_liguana",
-        "label": "First Aquisition - Lesser Antillean Iguana",
+        "label": "First Acquisition - Lesser Antillean Iguana",
         "type": "firsts",
         "species_type": "liguana",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_liguana",
         "label": "Conservation Release - Lesser Antillean Iguana",
         "type": "conservation",
         "species_type": "liguana",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_mrose",
         "label": "Research Welfare 1 - Malabar Rose",
         "type": "research welfare",
         "species_type": "mrose",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_mrose",
         "label": "Research Welfare 2 - Malabar Rose",
         "type": "research welfare",
         "species_type": "mrose",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_mrose",
         "label": "Research Welfare 3 - Malabar Rose",
         "type": "research welfare",
         "species_type": "mrose",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_mrose",
         "label": "First Breeding - Malabar Rose",
         "type": "firsts",
         "species_type": "mrose",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_mrose",
-        "label": "First Aquisition - Malabar Rose",
+        "label": "First Acquisition - Malabar Rose",
         "type": "firsts",
         "species_type": "mrose",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_mrose",
         "label": "Conservation Release - Malabar Rose",
         "type": "conservation",
         "species_type": "mrose",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_mtarantula",
         "label": "Research Welfare 1 - Mexican Red Knee Tarantula",
         "type": "research welfare",
         "species_type": "mtarantula",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_mtarantula",
         "label": "Research Welfare 2 - Mexican Red Knee Tarantula",
         "type": "research welfare",
         "species_type": "mtarantula",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_mtarantula",
         "label": "Research Welfare 3 - Mexican Red Knee Tarantula",
         "type": "research welfare",
         "species_type": "mtarantula",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_mtarantula",
         "label": "First Breeding - Mexican Red Knee Tarantula",
         "type": "firsts",
         "species_type": "mtarantula",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_mtarantula",
-        "label": "First Aquisition - Mexican Red Knee Tarantula",
+        "label": "First Acquisition - Mexican Red Knee Tarantula",
         "type": "firsts",
         "species_type": "mtarantula",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_mtarantula",
         "label": "Conservation Release - Mexican Red Knee Tarantula",
         "type": "conservation",
         "species_type": "mtarantula",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_padder",
         "label": "Research Welfare 1 - Puff Adder",
         "type": "research welfare",
         "species_type": "padder",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_padder",
         "label": "Research Welfare 2 - Puff Adder",
         "type": "research welfare",
         "species_type": "padder",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_padder",
         "label": "Research Welfare 3 - Puff Adder",
         "type": "research welfare",
         "species_type": "padder",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_padder",
         "label": "First Breeding - Puff Adder",
         "type": "firsts",
         "species_type": "padder",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_padder",
-        "label": "First Aquisition - Puff Adder",
+        "label": "First Acquisition - Puff Adder",
         "type": "firsts",
         "species_type": "padder",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_padder",
         "label": "Conservation Release - Puff Adder",
         "type": "conservation",
         "species_type": "padder",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_tbeetle",
         "label": "Research Welfare 1 - Titan Beetle",
         "type": "research welfare",
         "species_type": "tbeetle",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_tbeetle",
         "label": "Research Welfare 2 - Titan Beetle",
         "type": "research welfare",
         "species_type": "tbeetle",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_tbeetle",
         "label": "Research Welfare 3 - Titan Beetle",
         "type": "research welfare",
         "species_type": "tbeetle",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_tbeetle",
         "label": "First Breeding - Titan Beetle",
         "type": "firsts",
         "species_type": "tbeetle",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_tbeetle",
-        "label": "First Aquisition - Titan Beetle",
+        "label": "First Acquisition - Titan Beetle",
         "type": "firsts",
         "species_type": "tbeetle",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_tbeetle",
         "label": "Conservation Release - Titan Beetle",
         "type": "conservation",
         "species_type": "tbeetle",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_wrattlesnake",
         "label": "Research Welfare 1 - Western Diamondback Rattlesnake",
         "type": "research welfare",
         "species_type": "wrattlesnake",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_wrattlesnake",
         "label": "Research Welfare 2 - Western Diamondback Rattlesnake",
         "type": "research welfare",
         "species_type": "wrattlesnake",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_wrattlesnake",
         "label": "Research Welfare 3 - Western Diamondback Rattlesnake",
         "type": "research welfare",
         "species_type": "wrattlesnake",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_wrattlesnake",
         "label": "First Breeding - Western Diamondback Rattlesnake",
         "type": "firsts",
         "species_type": "wrattlesnake",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_wrattlesnake",
-        "label": "First Aquisition - Western Diamondback Rattlesnake",
+        "label": "First Acquisition - Western Diamondback Rattlesnake",
         "type": "firsts",
         "species_type": "wrattlesnake",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_wrattlesnake",
         "label": "Conservation Release - Western Diamondback Rattlesnake",
         "type": "conservation",
         "species_type": "wrattlesnake",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare1_yanaconda",
         "label": "Research Welfare 1 - Yellow Anaconda",
         "type": "research welfare",
         "species_type": "yanaconda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare2_yanaconda",
         "label": "Research Welfare 2 - Yellow Anaconda",
         "type": "research welfare",
         "species_type": "yanaconda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "e_welfare3_yanaconda",
         "label": "Research Welfare 3 - Yellow Anaconda",
         "type": "research welfare",
         "species_type": "yanaconda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fb_yanaconda",
         "label": "First Breeding - Yellow Anaconda",
         "type": "firsts",
         "species_type": "yanaconda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "fa_yanaconda",
-        "label": "First Aquisition - Yellow Anaconda",
+        "label": "First Acquisition - Yellow Anaconda",
         "type": "firsts",
         "species_type": "yanaconda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     },
     {
         "stringid": "cr_yanaconda",
         "label": "Conservation Release - Yellow Anaconda",
         "type": "conservation",
         "species_type": "yanaconda",
-        "water_needed": false
+        "water_needed": false,
+        "fence_grade": 0
     }
 ]

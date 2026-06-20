@@ -1,6 +1,6 @@
 from __future__ import annotations
 from typing import TYPE_CHECKING
-from rule_builder.rules import Has
+from rule_builder.rules import Has, HasAllCounts
 from .Items import ItemNames
 from .Names import EntranceNames
 from .Locations import LocationFormation, complete_location_list
@@ -42,25 +42,28 @@ def set_all_location_rules(world: PlanetZooWorld) -> None:
     # Permits for seperate animals
 
     for location in complete_location_list:
-        if location.stringid == "fb_gpanda":
+        if location.label == "First Breeding - Giant Panda":
             continue
         if location.species_type != "none":
             animal_name = location.label.split(" - ")[1]
             animal_permit = f"Permit: {animal_name}"
             current_location = world.multiworld.get_location(
-                location.stringid, world.player)
+                location.label, world.player)
             world.set_rule(current_location, Has(animal_permit))
             if location.water_needed == True:
                 world.set_rule(current_location, HAS_WATER_TOOLS)
                 # Water check rule
+            if location.fence_grade > 0:
+                world.set_rule(current_location, Has(
+                    "Progressive Barrier Level", location.fence_grade))
 
 
 # Goal currently is, breed Giant Pandas
 def set_completion_condition(world: PlanetZooWorld) -> None:
-    goal_location = world.multiworld.get_location("fb_gpanda",
+    goal_location = world.multiworld.get_location("First Breeding - Giant Panda",
                                                   world.player)
     goal_location.place_locked_item(world.create_event("Victory"))
-    world.set_rule(goal_location, Has(
-        item_name="Permit: Giant Panda"))
+    world.set_rule(goal_location, HasAllCounts(
+        {"Permit: Giant Panda": 1, "Progressive Barrier Level": 4}))
     world.multiworld.completion_condition[world.player] = lambda state: state.has(
         "Victory", world.player)

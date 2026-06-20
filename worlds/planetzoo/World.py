@@ -39,13 +39,20 @@ class PlanetZooWorld(World):
     def create_item(self, name: str) -> Items.PlanetZooItem:
         return Items.create_item_with_correct_classification(self, name)
 
-    def fill_slot_data(self) -> Mapping[str, Any]:
-        return self.options.as_dict(
-            "starting_money"
-        )
-
     def get_filler_item_name(self):
         return Items.get_random_filler_item_name(self)
+
+    def fill_slot_data(self) -> Mapping[str, Any]:
+        GOAL = {
+            "type": "breed",
+            "args": {
+                "required_breed": ["gpanda"],  # breed a Giant Panda
+                "required_research": [],
+            },
+        }
+        data = self.options.as_dict("starting_money", "num_starting_species")
+        data["goal"] = GOAL
+        return data
 
     def create_event(self, event: str) -> Items.PlanetZooItem:
         return Items.PlanetZooItem(event, ItemClassification.progression, None, self.player)
