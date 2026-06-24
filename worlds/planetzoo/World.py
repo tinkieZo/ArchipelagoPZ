@@ -17,12 +17,10 @@ class PlanetZooWorld(World):
 
     location_name_to_id = Locations.location_name_to_id
     item_name_to_id = Items.item_name_to_id
-    startingspecies = [
-        "plains_zebra",
-        "timber_wolf",
-        "american_bison",
-        "african_elephant"
-    ]
+
+    item_name_groups = {
+        "Permits": Items.list_of_permits,
+    }
 
     startingmoney = []
 

@@ -129,6 +129,13 @@ def get_random_filler_item_name(world: PlanetZooWorld) -> str:
     return ItemNames.conserv_cred_s
 
 
+# Permit list for Rule
+list_of_permits = [
+    item.name for item in complete_item_list if
+    "Permit" in item.name
+]
+
+
 def create_all_items(world: PlanetZooWorld) -> None:
     list_of_permits = [
         item for item in complete_item_list if

@@ -793,75 +793,75 @@
     },
     {
         "stringid": "welfare1_blemur",
-        "label": "Research Welfare 1 - Black a White Ruffed Lemur",
+        "label": "Research Welfare 1 - Black and White Ruffed Lemur",
         "type": "research welfare",
         "species_type": "blemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_blemur",
-        "label": "Research Welfare 2 - Black a White Ruffed Lemur",
+        "label": "Research Welfare 2 - Black and White Ruffed Lemur",
         "type": "research welfare",
         "species_type": "blemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_blemur",
-        "label": "Research Welfare 3 - Black a White Ruffed Lemur",
+        "label": "Research Welfare 3 - Black and White Ruffed Lemur",
         "type": "research welfare",
         "species_type": "blemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_blemur",
-        "label": "Research Welfare 4 - Black a White Ruffed Lemur",
+        "label": "Research Welfare 4 - Black and White Ruffed Lemur",
         "type": "research welfare",
         "species_type": "blemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_blemur",
-        "label": "Research Welfare 5 - Black a White Ruffed Lemur",
+        "label": "Research Welfare 5 - Black and White Ruffed Lemur",
         "type": "research welfare",
         "species_type": "blemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_blemur",
-        "label": "Research Welfare 6 - Black a White Ruffed Lemur",
+        "label": "Research Welfare 6 - Black and White Ruffed Lemur",
         "type": "research welfare",
         "species_type": "blemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "fb_blemur",
-        "label": "First Breeding - Black a White Ruffed Lemur",
+        "label": "First Breeding - Black and White Ruffed Lemur",
         "type": "firsts",
         "species_type": "blemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "fa_blemur",
-        "label": "First Acquisition - Black a White Ruffed Lemur",
+        "label": "First Acquisition - Black and White Ruffed Lemur",
         "type": "firsts",
         "species_type": "blemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "cr_blemur",
-        "label": "Conservation Release - Black a White Ruffed Lemur",
+        "label": "Conservation Release - Black and White Ruffed Lemur",
         "type": "conservation",
         "species_type": "blemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_bongo",
@@ -2309,7 +2309,7 @@
         "type": "research welfare",
         "species_type": "jmacaque",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_jmacaque",
@@ -2317,7 +2317,7 @@
         "type": "research welfare",
         "species_type": "jmacaque",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_jmacaque",
@@ -2325,7 +2325,7 @@
         "type": "research welfare",
         "species_type": "jmacaque",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_jmacaque",
@@ -2333,7 +2333,7 @@
         "type": "research welfare",
         "species_type": "jmacaque",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_jmacaque",
@@ -2341,7 +2341,7 @@
         "type": "research welfare",
         "species_type": "jmacaque",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_jmacaque",
@@ -2349,7 +2349,7 @@
         "type": "research welfare",
         "species_type": "jmacaque",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "fb_jmacaque",
@@ -2357,7 +2357,7 @@
         "type": "firsts",
         "species_type": "jmacaque",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "fa_jmacaque",
@@ -2365,7 +2365,7 @@
         "type": "firsts",
         "species_type": "jmacaque",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "cr_jmacaque",
@@ -2373,7 +2373,7 @@
         "type": "conservation",
         "species_type": "jmacaque",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_mandrill",
@@ -2957,7 +2957,7 @@
         "type": "research welfare",
         "species_type": "relemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare2_relemur",
@@ -2965,7 +2965,7 @@
         "type": "research welfare",
         "species_type": "relemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare3_relemur",
@@ -2973,7 +2973,7 @@
         "type": "research welfare",
         "species_type": "relemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare4_relemur",
@@ -2981,7 +2981,7 @@
         "type": "research welfare",
         "species_type": "relemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare5_relemur",
@@ -2989,7 +2989,7 @@
         "type": "research welfare",
         "species_type": "relemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare6_relemur",
@@ -2997,7 +2997,7 @@
         "type": "research welfare",
         "species_type": "relemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "fb_relemur",
@@ -3005,7 +3005,7 @@
         "type": "firsts",
         "species_type": "relemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "fa_relemur",
@@ -3013,7 +3013,7 @@
         "type": "firsts",
         "species_type": "relemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "cr_relemur",
@@ -3021,7 +3021,7 @@
         "type": "conservation",
         "species_type": "relemur",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "welfare1_rgiraffe",

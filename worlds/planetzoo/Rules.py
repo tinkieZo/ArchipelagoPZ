@@ -1,7 +1,8 @@
 from __future__ import annotations
+from functools import reduce
 from typing import TYPE_CHECKING
-from rule_builder.rules import Has, HasAllCounts
-from .Items import ItemNames
+from rule_builder.rules import Has, HasAllCounts, HasGroup
+from .Items import ItemNames, list_of_permits
 from .Names import EntranceNames
 from .Locations import LocationFormation, complete_location_list
 if TYPE_CHECKING:
@@ -12,6 +13,12 @@ HAS_CENTRE = Has(ItemNames.research_centre)
 HAS_WORKSHOP = Has(ItemNames.workshop)
 HAS_CONS_PROG = Has(ItemNames.conserve_program)
 HAS_WATER_TOOLS = Has(ItemNames.water_hab_tools)
+guest_counts_to_species = {"250": 0,
+                           "500": 4,
+                           "750": 6,
+                           "1000": 8,
+                           "1250": 10,
+                           "2500": 18}
 
 
 def set_all_rules(world: PlanetZooWorld) -> None:
@@ -42,20 +49,29 @@ def set_all_location_rules(world: PlanetZooWorld) -> None:
     # Permits for seperate animals
 
     for location in complete_location_list:
+        condition = []
         if location.label == "First Breeding - Giant Panda":
             continue
         if location.species_type != "none":
             animal_name = location.label.split(" - ")[1]
             animal_permit = f"Permit: {animal_name}"
-            current_location = world.multiworld.get_location(
-                location.label, world.player)
-            world.set_rule(current_location, Has(animal_permit))
+            condition.append(Has(animal_permit))
             if location.water_needed == True:
-                world.set_rule(current_location, HAS_WATER_TOOLS)
+                condition.append(HAS_WATER_TOOLS)
                 # Water check rule
             if location.fence_grade > 0:
-                world.set_rule(current_location, Has(
+                condition.append(Has(
                     "Progressive Barrier Level", location.fence_grade))
+        if "guests" in location.stringid:
+            guest_count = location.label.split(" - ")[1]
+            condition.append(
+                HasGroup('Permits', guest_counts_to_species[guest_count])
+            )
+        if condition:
+            current_location = world.multiworld.get_location(
+                location.label, world.player)
+            combined_rule = reduce(lambda a, b: a & b, condition)
+            world.set_rule(current_location, combined_rule)
 
 
 # Goal currently is, breed Giant Pandas

@@ -78,10 +78,10 @@
     },
     {
         "stringid": "blemur",
-        "label": "Black a White Ruffed Lemur",
+        "label": "Black and White Ruffed Lemur",
         "interactivity": "full",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "bongo",
@@ -228,7 +228,7 @@
         "label": "Japanese Macaque",
         "interactivity": "full",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "mandrill",
@@ -291,7 +291,7 @@
         "label": "Red Ruffed Lemur",
         "interactivity": "full",
         "water_needed": false,
-        "fence_grade": 1
+        "fence_grade": 2
     },
     {
         "stringid": "rgiraffe",

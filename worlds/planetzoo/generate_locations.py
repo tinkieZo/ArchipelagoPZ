@@ -98,7 +98,7 @@ def species_to_locations(species: SpeciesesFormation) -> list[LocationFormation]
     return locations
 
 
-with open("ArchipelagoPZ\worlds\planetzoo\data\specieses.json") as json_file:
+with open("d:\Coding\Planet Zoo\ArchipelagoPZ\worlds\planetzoo\data\specieses.json") as json_file:
     json_data = json.load(json_file)
     lfl = [SpeciesesFormation.model_validate(
         loopstuff)for loopstuff in json_data]
@@ -107,5 +107,5 @@ with open("ArchipelagoPZ\worlds\planetzoo\data\specieses.json") as json_file:
     locations: list[LocationFormation] = []
     for species in lfl:
         locations.extend(species_to_locations(species))
-    with open("ArchipelagoPZ\worlds\planetzoo\data\\specieslocations.json", "+w") as output_file:
+    with open("d:\Coding\Planet Zoo\ArchipelagoPZ\worlds\planetzoo\data\\specieslocations.json", "+w") as output_file:
         json.dump([l.model_dump()for l in locations], output_file)
